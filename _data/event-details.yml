@@ -1,12 +1,12 @@
-title: Global AppSec US 2021 Virtual
+title: Global AppSec San Francisco 2022
 pricing-title: Pricing
-dates: November 8-12
-training: November 8-10
-conference: November 11-12
-registration_url: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-tickets-162096600295
+dates: September 19-23
+training: September 19-21
+conference: September 22-23
+#registration_url: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-tickets-162096600295
 logo_url: https://owasp.org/
-venue: Virtual On-line Event
-#location: Virtual On-line Event
+venue: Hyatt Regency San Francisco
+location: 5 Embarcadero Center, San Francisco, CA 94111, USA
 background: virtualUSheader.png
 color: 797979
 analytics: 
