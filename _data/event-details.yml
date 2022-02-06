@@ -1,8 +1,8 @@
 title: Global AppSec San Francisco 2022
 pricing-title: Pricing
-dates: September 19-23
-training: September 19-21
-conference: September 22-23
+dates: November 14-18
+training: November 14-16
+conference: November 17-18
 #registration_url: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-tickets-162096600295
 logo_url: https://owasp.org/
 venue: Hyatt Regency San Francisco
@@ -12,7 +12,7 @@ color: 797979
 analytics: 
 registration_open: false
 pitch: >-
-    Global AppSec San Francisco returns September 19-23. Designed for private and public sector infosec professionals, the two day OWASP conferences equip developers, defenders, and advocates to build a more secure web.  We are offering educational 1-day, 2-day, and 3-day training courses on September 19-21. 
+    Global AppSec San Francisco returns November 14-18. Designed for private and public sector infosec professionals, the two day OWASP conferences equip developers, defenders, and advocates to build a more secure web.  We are offering educational 1-day, 2-day, and 3-day training courses on November 14-16. 
     Join us for leading application security technologies, speakers, prospects, and community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference.     
     <br><br>
 image_attribution:  "<span>Photo by <a href='https://unsplash.com/@nasa?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>NASA</a> on <a href='https://unsplash.com/s/photos/gulf-of-mexico%2C-united-states?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a></span>"
