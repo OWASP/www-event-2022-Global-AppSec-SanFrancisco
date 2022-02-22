@@ -9,7 +9,10 @@ permalink: /reviewers/
 # {{page.title}}
 <br>
 <div class="keynote-full">
+{% assign reviewers = site.data.reviewers %}
+{% if reviewers.size > 0 %}
 {% assign reviewers = site.data.reviewers | sort: 'name' %}
+{% endif %} 
 {% for reviewer in reviewers %}
 <hr>
 		<div>
