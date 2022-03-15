@@ -1,7 +1,7 @@
 ---
 
 title: Global AppSec San Francisco 2022
-layout: event
+layout: event-x
 
 ---
 

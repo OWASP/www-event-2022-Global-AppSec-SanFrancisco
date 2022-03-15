@@ -7,7 +7,9 @@ conference: November 17-18
 logo_url: https://owasp.org/
 venue: Hyatt Regency San Francisco
 location: 5 Embarcadero Center, San Francisco, CA 94111, USA
-background: AppSec_SF_Banner1200x300.jpeg
+background: AppSec_SF_Banner1920x480.jpeg
+background-style: 'linear-gradient(to right, #242158 50%, #84282b 50%)'
+background-padding: 0em 2em 0em 2em
 color: 797979
 analytics: 
 registration_open: false
