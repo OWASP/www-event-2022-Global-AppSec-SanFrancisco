@@ -21,10 +21,10 @@
   items:
     #- title: Sponsors & Exhibitors
       #url  : /sponsors/
-    #- title: Volunteer
+    - title: Volunteer
       url: /volunteer/
       #url  : /https://owasp.wufoo.com/forms/kcj5cel1lmygi4//
-    #- title: OWASP Merchandise
+    - title: OWASP Merchandise
       url: https://owasp.org/store
       #url  : /https://www.zazzle.com/store/owasp_foundation/
     #- title: Progam Team
