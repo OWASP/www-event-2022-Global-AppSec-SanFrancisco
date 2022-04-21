@@ -1,3 +1,1 @@
-# www-event-example
-
-## Sample Event Site
+# OWASP Global AppSec San Francisco 2022
