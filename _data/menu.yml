@@ -10,10 +10,10 @@
       #url : /trainings/
     #- title: Agenda
       #url : /schedule/
-   - title: Call for Trainers - opening in early June
-      #url : https://owasp.submittable.com/submit/197322/2021-virtual-global-appsec-cfp
-   - title: Call for Papers - opening in early June
-      #url:
+   - title: Call for Trainers 
+      url : https://owasp.submittable.com/submit/229080/2022-global-appsec-san-francisco-cft
+   - title: Call for Papers 
+      url: https://owasp.submittable.com/submit/228824/2022-global-appsec-san-francisco-cfp
 - title: EXHIBITOR PROSPECTUS
   items:
     - title: Exhibitor Prospect
