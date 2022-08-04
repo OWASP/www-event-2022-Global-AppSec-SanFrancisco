@@ -73,7 +73,7 @@
   url: https://www.secureflag.com/
   backgroundSize: 125px
   type: Gold
-- logo: /assets/images/sponsors/ThreatX_Logo.svg
+- logo: /assets/images/sponsors/ThreatX_logo.svg
   name: ThreatX
   url: https://www.threatx.com/
   backgroundSize: 125px
@@ -98,8 +98,13 @@
   url: https://www.microfocus.com/en-us/cyberres/application-security
   backgroundSize: 125px
   type: Gold
-- logo: 
-  name:
-  url:
-  backgroundSize:
+- logo: /assets/images/sponsors/Detectify_logo.png
+  name: Detectify
+  url: http://www.detectify.com
+  backgroundSize: 125px
+  type: Silver
+- logo: /assets/images/sponsors/AquaSecurity_logo.jpeg
+  name: Aqua Security
+  url: https://www.aquasec.com/
+  backgroundSize: 125px
   type: Silver
