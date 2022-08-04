@@ -10,9 +10,9 @@ permalink: /sponsors/
 We would like to recognize our sponsors and exhibitors: 
 
 
-{% assign diamonds = site.data.sponsors | where: "type", "Diamond" %}
-{% assign golds = site.data.sponsors | where: "type", "Gold" %}
-{% assign silvers = site.data.sponsors | where: "type", "Silver" %}
+{% assign diamonds = site.data.sponsors | where: "type", "Diamond" | sort: "name" %}
+{% assign golds = site.data.sponsors | where: "type", "Gold" | sort: "name" %}
+{% assign silvers = site.data.sponsors | where: "type", "Silver" | sort: "name" %}
 
 
 <section class='member'>
