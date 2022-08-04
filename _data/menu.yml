@@ -14,12 +14,12 @@
      url: https://owasp.submittable.com/submit/229080/2022-global-appsec-san-francisco-cft
    - title: Call for Papers 
      url: https://owasp.submittable.com/submit/228824/2022-global-appsec-san-francisco-cfp
-- title: EXHIBITOR PROSPECTUS
+- title: EXHIBIT
   items:
     - title: Exhibitor Prospect
       url: /assets/images/Global_AppSec_SF_Exhibitor_Sponsorship.pdf
-- title: EXHIBITORS & SPONSORS
-  #url:
+    - title: Exhibitors & Sponsors
+      #url:
 - title: ABOUT
   #url: /about/
   items:
