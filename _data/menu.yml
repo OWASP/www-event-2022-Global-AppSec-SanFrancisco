@@ -18,11 +18,11 @@
   items:
     - title: Exhibitor Prospect
       url: /assets/images/Global_AppSec_SF_Exhibitor_Sponsorship.pdf
+- title: EXHIBITORS & SPONSORS
+  #url:
 - title: ABOUT
   #url: /about/
   items:
-    - title: Exhibitors & Sponsors
-      #url  : /sponsors/
     - title: Volunteer
       url: /volunteer/
       #url  : /https://owasp.wufoo.com/forms/kcj5cel1lmygi4//
