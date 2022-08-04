@@ -58,5 +58,13 @@
   url: https://sf.globalappsec.org/assets/images/Global_AppSec_SF_Exhibitor_Sponsorship.pdf
   backgroundSize: 125px
   type: Diamond
-
-
+- logo: /assets/images/sponsors/synopsys_logo.png
+  name: Synopsys
+  url: http://www.synopsys.com
+  backgroundSize: 125px
+  type: Gold
+- logo: /assets/images/sponsors/Jit_Logo.svg
+  name: Jit.io
+  url: https://www.jit.io/
+  backgroundSize: 125px
+  type: Gold
