@@ -3,3 +3,24 @@
   url: https://www.coalfire.com/
   backgroundSize: 125px
   type: Diamond
+- logo: /assets/images/sponsors/CycodeLogo.png
+  name: Cycode
+  url: https://cycode.com/
+  backgroundSize: 125px
+  type: Diamond
+- logo: /assets/images/sponsors/FerootLogo.png
+  name: Feroot
+  url: https://www.feroot.com/
+  backgroundSize: 125px
+  type: Diamond
+- logo: /assets/images/sponsors/github_logo.png
+  name: GitHub
+  url: https://github.com/enterprise
+  backgroundSize: 125px
+  type: Diamond
+- logo: /assets/images/sponsors/whitesource_logo.jpeg
+  name: WhiteSource Software
+  url: http://www.whitesourcesoftware.com
+  backgroundSize: 125px
+  type: Diamond
+  
