@@ -68,3 +68,38 @@
   url: https://www.jit.io/
   backgroundSize: 125px
   type: Gold
+- logo: /assets/images/sponsors/SecureFlag_Logo.svg
+  name: SecureFlag
+  url: https://www.secureflag.com/
+  backgroundSize: 125px
+  type: Gold
+- logo: /assets/images/sponsors/ThreatX_Logo.svg
+  name: ThreatX
+  url: https://www.threatx.com/
+  backgroundSize: 125px
+  type: Gold
+- logo: /assets/images/sponsors/Contrast_Logo.png
+  name: Contrast Security
+  url: http://contrastsecurity.com
+  backgroundSize: 125px
+  type: Gold
+- logo: /assets/images/sponsors/SecurityCompass_Logo.svg
+  name: Security Compass
+  url: https://www.securitycompass.com/
+  backgroundSize: 125px
+  type: Gold
+- logo: /assets/images/sponsors/IriusRisk_logo.svg
+  name: IriusRisk
+  url: https://www.iriusrisk.com/
+  backgroundSize: 125px
+  type: Gold
+- logo: /assets/images/sponsors/fortify_logo_owasp.png
+  name: Fortify
+  url: https://www.microfocus.com/en-us/cyberres/application-security
+  backgroundSize: 125px
+  type: Gold
+- logo: 
+  name:
+  url:
+  backgroundSize:
+  type: Silver
