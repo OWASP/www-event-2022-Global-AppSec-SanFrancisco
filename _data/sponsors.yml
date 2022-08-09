@@ -110,11 +110,11 @@
   type: Silver
 - logo: /assets/images/sponsors/YourLogoHere.png
   name: Kondukto
-  url:
+  url: https://www.kondukto.io/
   backgroundSize: 125px
   type: Silver
 - logo: /assets/images/sponsors/legit-logo-full-h-main.jpeg
   name: Legit Security
-  url:  https://legitsecurity.com
+  url: https://www.legitsecurity.com/
   backgroundSize: 125px
   type: Silver
