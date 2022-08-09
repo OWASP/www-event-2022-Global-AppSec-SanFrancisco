@@ -113,3 +113,8 @@
   url:
   backgroundSize: 125px
   type: Silver
+- logo: /assets/images/sponsors/YourLogoHere.png
+  name: Legit Security
+  url:  /assets/images/sponsors/legit-logo-full-h-main.jpeg
+  backgroundSize: 125px
+  type: Silver
