@@ -8,11 +8,6 @@
   url: https://cycode.com/
   backgroundSize: 125px
   type: Diamond
-- logo: /assets/images/sponsors/FerootLogo.png
-  name: Feroot
-  url: https://www.feroot.com/
-  backgroundSize: 125px
-  type: Diamond
 - logo: /assets/images/sponsors/github_logo.png
   name: GitHub
   url: https://github.com/enterprise
@@ -83,11 +78,6 @@
   url: http://contrastsecurity.com
   backgroundSize: 125px
   type: Gold
-- logo: /assets/images/sponsors/SecurityCompass_Logo.svg
-  name: Security Compass
-  url: https://www.securitycompass.com/
-  backgroundSize: 125px
-  type: Gold
 - logo: /assets/images/sponsors/IriusRiskNEWlogo.png
   name: IriusRisk
   url: https://www.iriusrisk.com/
@@ -116,5 +106,35 @@
 - logo: /assets/images/sponsors/legit-logo-full-h-main.jpeg
   name: Legit Security
   url: https://www.legitsecurity.com/
+  backgroundSize: 125px
+  type: Silver
+- logo: /assets/images/sponsors/deepfactor-logo.svg
+  name: Deepfactor
+  url: https://www.deepfactor.io/
+  backgroundSize: 125px
+  type: Silver
+- logo: /assets/images/sponsors/HumanSecurity_logo.jpeg
+  name: Human Security 
+  url: https://www.humansecurity.com/
+  backgroundSize: 125px
+  type: Silver
+- logo: /assets/images/sponsors/HackEDU_Logo.png
+  name: HackEDU
+  url: https://www.hackedu.com
+  backgroundSize: 125px
+  type: Silver
+- logo: /assets/images/sponsors/42Crunch_logo.svg
+  name: 42Crunch
+  url: https://42crunch.com/
+  backgroundSize: 125px
+  type: Silver
+- logo: /assets/images/sponsors/Corsha_logo.jpeg
+  name: Corsha
+  url: https://corsha.com/
+  backgroundSize: 125px
+  type: Silver
+- logo: /assets/images/sponsors/Probely_logo.png
+  name: Probely
+  url: https://probely.com
   backgroundSize: 125px
   type: Silver
