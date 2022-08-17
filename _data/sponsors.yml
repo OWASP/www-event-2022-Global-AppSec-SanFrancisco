@@ -158,3 +158,8 @@
   url: https://cycode.com/
   backgroundSize: 125px
   type: Lanyard Sponsor
+- logo: /assets/images/sponsors/apiiro_logo_for_owasp.png
+  name: Apiiro
+  url: https://apiiro.com/
+  backgroundSize: 125px
+  type: Networking Reception Sponsor
