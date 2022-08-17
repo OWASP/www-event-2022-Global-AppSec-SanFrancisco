@@ -18,11 +18,11 @@
   url: http://www.whitesourcesoftware.com
   backgroundSize: 125px
   type: Diamond
-- logo: /assets/images/sponsors/YourLogoHere.png
-  name: Your logo here
-  url: https://sf.globalappsec.org/assets/images/Global_AppSec_SF_Exhibitor_Sponsorship.pdf
+- logo: /assets/images/sponsors/apiiro_logo_for_owasp.png
+  name: Apiiro
+  url: https://apiiro.com/
   backgroundSize: 125px
-  type: Diamond
+  type: Diamond Plus
 - logo: /assets/images/sponsors/YourLogoHere.png
   name: Your logo here
   url: https://sf.globalappsec.org/assets/images/Global_AppSec_SF_Exhibitor_Sponsorship.pdf
