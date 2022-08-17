@@ -98,6 +98,11 @@
   url: https://www.microfocus.com/en-us/cyberres/application-security
   backgroundSize: 125px
   type: Gold
+- logo: /assets/images/sponsors/securitycompass-logo.svg  
+  name: Security Compass
+  url: https://www.securitycompass.com/
+  backgroundSize: 125px
+  type: Gold
 - logo: /assets/images/sponsors/Detectify_logo.png
   name: Detectify
   url: http://www.detectify.com
