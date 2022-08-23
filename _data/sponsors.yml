@@ -158,3 +158,8 @@
   url: https://apiiro.com/
   backgroundSize: 125px
   type: Networking Reception Sponsor
+- logo: /assets/images/sponsors/EnsoSecurity.png
+  name: Enso Security
+  url: https://www.enso.security/
+  backgroundSize: 125px
+  type: Coffee Break Sponsor
