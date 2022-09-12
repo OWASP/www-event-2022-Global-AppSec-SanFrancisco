@@ -38,7 +38,7 @@
  SectionId: sku_IWAHBB
  Description: >-
       You’re tasked with ‘doing AppSec’ for your company and you’ve got more apps and issues than you know how to deal with.  This training course will help you make sense of the chaos and all with open source projects from OWASP at DevSecOps speeds.  This two-day hands-on course consists of a series of lectures and corresponding labs which demonstrate practical use of OWASP projects based on past use in real AppSec teams.  Knowing that AppSec team size is usually the most critical constraint, the training will cover how to automate the repetitive things allowing you to spend time on things that require the human brain.  Be prepared to return to your company with a whole new arsenal of tools and techniques to make your AppSec efforts more successful by adding automation and OWASP projects running at the speed of DevSecOps.  With over 20+ years of experience, the trainer provides pragmatic and well-tested advice on being successful rather than theoretical ‘best practices’.<br>   
-- Type:
+- Type: Training
   Trainer:
     - Name: John DiLeo
       Email:john.dileo@owasp.org
