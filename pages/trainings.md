@@ -6,18 +6,22 @@ permalink: /trainings/
 
 ---
 # {{page.title}}
-<br>
+
 #### Training subject to change based on trainer availability and meeting the number of students per trainer request.
 
-{% assign tpricing = site.data.pricing | where: 'title', 'Training Courses' %}
-Training prices are as follows {{ tpricing[0].price }}
-1-day course $850,
-2-day course $1700,
-3-day course $2550. All training will be held from 9am-5pm at the Hyatt Regency San Francisco 5 Embarcadero Center
-San Francisco, California 94111 United States. 3-day training courses will be held November 14-16, 2-day training courses will be held November 15-16, and 1-day training courses will be held on November 16.
+## Pricing
+1-day course : $850<br>
+2-day course: $1700<br>
+3-day course: $2550<br>
+
+All training will be held at the Hyatt Regency San Francisco 5 Embarcadero Center
+San Francisco, California 94111 United States. 
+<br><br>
+3-day training courses will be held November 14-16<br>
+2-day training courses will be held November 15-16<br>
+1-day training courses will be held on November 16.
 
 <section class='training'>
-**Training subject to change based on trainer availability and meeting the number of students per trainer request.**
 {% if site.data.trainings.size > 0 %}
 {% assign trainings = site.data.trainings | sort: 'Title' %}
 {% for trainer in trainings %}
