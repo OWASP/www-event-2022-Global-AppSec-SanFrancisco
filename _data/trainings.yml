@@ -40,13 +40,16 @@ Engineers will leave this training with a solid understanding of defense-in-dept
       You’re tasked with ‘doing AppSec’ for your company and you’ve got more apps and issues than you know how to deal with.  This training course will help you make sense of the chaos and all with open source projects from OWASP at DevSecOps speeds.  This two-day hands-on course consists of a series of lectures and corresponding labs which demonstrate practical use of OWASP projects based on past use in real AppSec teams.  Knowing that AppSec team size is usually the most critical constraint, the training will cover how to automate the repetitive things allowing you to spend time on things that require the human brain.  Be prepared to return to your company with a whole new arsenal of tools and techniques to make your AppSec efforts more successful by adding automation and OWASP projects running at the speed of DevSecOps.  With over 20+ years of experience, the trainer provides pragmatic and well-tested advice on being successful rather than theoretical ‘best practices’.<br>   
 - Type:
   Trainer:
-    - Name:
-      Email:
-      Image:
-      Twitter:
-      Biography:
-      TrainerID:
- Title:
- URL:
- SectionId:
- Description:
+    - Name: John DiLeo
+      Email:john.dileo@owasp.org
+      Image: /assets/images/trainers/JohnDiLeo.jpeg
+      Twitter: @gr4ybeard
+      Biography: Dr. John DiLeo is the Auckland-area leader of the OWASP New Zealand Chapter. He's currently leading Datacom's Application Security Services team, providing support and guidance to clients, in Australia and New Zealand, in launching, managing, and maturing their enterprise software assurance programs. Before he started "doing AppSec" full-time, John was active as a Java enterprise architect and Web application developer. In an earlier life, John had specialized in developing discrete-event simulations of large distributed systems, in a variety of languages - including the Java-based language (FreeSML) he developed. John is on the core team for the OWASP Software Assurance Maturity Model (SAMM) Project, and is a member of the OWASP Education and Training Committee.
+      TrainerID: trainer003
+ Title: OWASP SAMM - Train-the-Trainer (2-day training course)
+ URL: https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877
+ SectionId: sku_IWAHBB
+ Description: >-
+      In this two-day training class, participants will be prepared to present the OWASP SAMM Project's one-day training class, "Secure Your SDLC using OWASP SAMM-ASAP!" The class will provide an in-depth review of each of the 10 modules in the SAMM training, with an emphasis on recommended techniques for delivering the content and in-class exercises.
+
+PLEASE NOTE: This class is not an introductory "How to BECOME a trainer" session - it is assumed participants already have experience as trainers, and are wishing to gain familiarity with the SAMM training class's content
