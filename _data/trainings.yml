@@ -11,11 +11,11 @@
       #Email: tainer.dos@owasp.org
       #Image: /assets/images/trainers/staff_harold.jpg
       #Twitter: Trainer_Dos
-      #Biography: The second trainer of this course is a cybersecurity certified professional with more than 125 years of
+      #Biography: The second trainer of this course is a cybersecurity certified professional with more than 25 years of
       #  experience. He works in the field of cybersecurity, cybersecurity research,
       #  and threat intelligence.
       #TrainerId: trainer_dos
-  Title: Defense-in-depth engineering (1-day training course)
+  Title: Defense-in-depth engineering (1-day training course 9am-5pm November 16)
   URL: https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877
   SectionId: sku_IWAHBB
   Description: >-
@@ -33,7 +33,7 @@
       Twitter: matt_tesauro
       Biography: Matt Tesauro is a DevSecOps and AppSec guru with specialization in creating security programs, leveraging automation to maximize team velocity and training emerging and senior professionals. When not writing automation code in Go, Matt is pushing for DevSecOps everywhere via his involvement in open-source projects, presentations, trainings and new technology innovation. As a versatile engineer, Matt’s background spans software development (primarily web development), Linux system administration, penetration testing and application / cloud security. He thrives on tackling technical problems, but his economics background gives him a unique understanding of business constraints and incentives around security initiatives. Currently, as a Distinguished Engineer at Noname Security, Matt is evangelizing Noname’s ground-breaking API security platform and API security in general. Previously, he rolled out AppSec automation at USAA and founded 10Security. Early in his career, Matt served as Director of Community and Operations at the OWASP Foundation, Senior AppSec Engineer at Duo Security, Senior Software Security Engineer at Pearson and Senior Product Security Engineer at Rackspace. 
       TrainerId: trainer002
-  Title: Doing DevSecOps with OWASP Projects (2-day training course)
+  Title: Doing DevSecOps with OWASP Projects (2-day training course 9am-5pm November 15-16)
   URL: https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877
   SectionId: sku_IWAHBB
   Description: >-
@@ -47,7 +47,7 @@
       Biography: Dr. John DiLeo is the Auckland-area leader of the OWASP New Zealand Chapter. He is currently leading Datacom's Application Security Services team, providing support and guidance to clients, in Australia and New Zealand, in launching, managing, and maturing their enterprise software assurance programs. Before he started 'doing AppSec' full-time, John was active as a Java enterprise architect and Web application developer. In an earlier life, John had specialized in developing discrete-event simulations of large distributed systems, in a variety of languages - including the Java-based language (FreeSML) he developed. John is on the core team for the OWASP Software Assurance Maturity Model (SAMM) Project, and is a member of the OWASP Education and Training Committee.
       TrainerID: trainer003
   Title: >-
-    OWASP SAMM - Train-the-Trainer (2-day training course)
+    OWASP SAMM - Train-the-Trainer (2-day training course 9am-5pm November 15-16)
   URL: https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877
   SectionId: sku_IWAHBB
   Description: >-
@@ -62,7 +62,7 @@
       Twitter: kpapapan
       Biography: Dr Kostas (Konstantinos) Papapanagiotou is a cyber security consultant that helps organizations around the world improve their security posture. He has more than 20 years of experience in the field of cyber security both as a corporate consultant and as a researcher. Over those years he has led numerous projects ranging from penetration tests to the implementation of complex corporate security, compliance and data loss prevention solutions. He is passionate about teaching and has delivered courses to hundreds of students, security professionals and developers.  He has been involved in OWASP since 2004, leading the OWASP Greek Chapter and several educational initiatives. He is an Adjunct Lecturer at the Hellenic-American University in the field of Cyber Security. He holds a PhD and BSc in Cyber Security from the University of Athens and an MSc in Information Security with distinction from Royal Holloway.
       TrainerID: trainer004
-  Title: Securing your applications in AWS (2-day training course)
+  Title: Securing your applications in AWS (2-day training course 9am-5pm November 15-16)
   URL: https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877
   SectionId: sku_IWAHBB
   Description: >-
@@ -76,7 +76,7 @@
       Biography: Anirudh Anand is a security researcher with a primary focus on Web and Mobile Application Security. He is currently working as a Principal Security Engineer at CRED and also Security Trainer at 7asecurity. He has been submitting bugs and contributing to security tools for over 9 years. In his free time, he participates in CTF competitions along with Team bi0s (the #1 security team in India according to CTFtime). His bounties involve vulnerabilities in Google, Microsoft, LinkedIn, Zendesk, Sendgrid, Gitlab, Gratipay, and Flipboard. Anirudh is an open-source enthusiast and has contributed to several OWASP projects with notable contributions being in OWTF and Hackademic Challenges Project. He has presented/trained in a multitude of conferences including c0c0n 2019, BlackHat Arsenal 2019, BlackHat Europe Arsenal 2018, HITB Dubai 2018, Offzone Moscow 2018, Ground Zero Summit Delhi 2015, and Xorconf 2015
       TrainerId: trainer005
   Title: >-
-    Hacking Modern Web apps: Master the Future of Attack Vectors (2-day training course)   
+    Hacking Modern Web apps: Master the Future of Attack Vectors (2-day training course 9am-5pm November 15-16)   
   URL: https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877
   SectionId: sku_IWAHBB
   Description: >-
@@ -102,7 +102,7 @@
       Biography: >- 
         Josh has worked as a consultant in IT/Application Security and Risk for 15 years now as well as a Software Developer. In that time he has seen the good, the bad and the stuff which is sadly/luckily still covered by an NDA. He is currently Chief Technology Officer for Bounce Security where he spends his time helping organizations improve and get better value from their Application Security processes and providing specialist Application Security advice. In his spare time he co-leads the OWASP Application Security Verification Standard project and is on the OWASP Israel chapter board.
       TrainerId: trainer006
-  Title: Building a High-Value AppSec Scanning Programme (2-day training course)
+  Title: Building a High-Value AppSec Scanning Programme (2-day training course 9am-5pm November 15-16)
   URL: https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877
   SectionId: sku_IWAHBB
   Description: >-
