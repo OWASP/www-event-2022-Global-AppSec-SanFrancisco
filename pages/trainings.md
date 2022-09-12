@@ -13,7 +13,8 @@ permalink: /trainings/
 Training prices are as follows {{ tpricing[0].price }}
 1-day course $850,
 2-day course $1700,
-3-day course $2550
+3-day course $2550. All training will be held from 9am-5pm at the Hyatt Regency San Francisco 5 Embarcadero Center
+San Francisco, California 94111 United States. 3-day training courses will be held November 14-16, 2-day training courses will be held November 15-16, and 1-day training courses will be held on November 16.
 
 <section class='training'>
 **Training subject to change based on trainer availability and meeting the number of students per trainer request.**
