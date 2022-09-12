@@ -21,14 +21,32 @@
   Description: >-
       The 2021 OWASP Top Ten introduced a category “Insecure Design” to focus on risks related to design flaws. In this training, we will focus on building defense-in-depth software. What can we do to proactively architect software to be more resilient to attacks? What type of findings may not be discovered via automated static analysis? How can we design our software to be more friendly during incident response scenarios?
 
-      This one-day training is perfect for engineers as well as security practitioners that have some familiarity with the OWASP top 10. During this training, we will focus on identifying often-overlooked architectural anti-patterns and vulnerabilities to be on the lookout for. We will utilize source code review to analyze patterns for improvement in both real-world applications as well as intentionally vulnerable applications. Every interactive exercise will involve discovering concerns and writing code to engineer solutions. The course will wrap up with real-world vulnerability analysis of open-source software with an effort to help provide more secure architectural recommendations for these projects.
+This one-day training is perfect for engineers as well as security practitioners that have some familiarity with the OWASP top 10. During this training, we will focus on identifying often-overlooked architectural anti-patterns and vulnerabilities to be on the lookout for. We will utilize source code review to analyze patterns for improvement in both real-world applications as well as intentionally vulnerable applications. Every interactive exercise will involve discovering concerns and writing code to engineer solutions. The course will wrap up with real-world vulnerability analysis of open-source software with an effort to help provide more secure architectural recommendations for these projects.
 
 
-      Engineers will leave this training with a solid understanding of defense-in-depth software architecture and design. Security engineers or consultants can expect to leave with an increased understanding of insecure design patterns and vulnerabilities.<br>   
+Engineers will leave this training with a solid understanding of defense-in-depth software architecture and design. Security engineers or consultants can expect to leave with an increased understanding of insecure design patterns and vulnerabilities.<br>   
 - Type: Training
   Trainer: 
-    - Name: 
-      Email: 
-      Image: 
-      Twitter: 
-      Biography: 
+    - Name: Matt Tesauro
+      Email: matt.tesauro@owasp.org
+      Image: /assets/images/trainers/matttesauroheadshotsmall.png
+      Twitter: @matt_tesauro
+      Biography: Matt Tesauro is a DevSecOps and AppSec guru with specialization in creating security programs, leveraging automation to maximize team velocity and training emerging and senior professionals. When not writing automation code in Go, Matt is pushing for DevSecOps everywhere via his involvement in open-source projects, presentations, trainings and new technology innovation. As a versatile engineer, Matt’s background spans software development (primarily web development), Linux system administration, penetration testing and application / cloud security. He thrives on tackling technical problems, but his economics background gives him a unique understanding of business constraints and incentives around security initiatives. Currently, as a Distinguished Engineer at Noname Security, Matt is evangelizing Noname’s ground-breaking API security platform and API security in general. Previously, he rolled out AppSec automation at USAA and founded 10Security. Early in his career, Matt served as Director of Community and Operations at the OWASP Foundation, Senior AppSec Engineer at Duo Security, Senior Software Security Engineer at Pearson and Senior Product Security Engineer at Rackspace. 
+      TrainerId: trainer002
+ Title: Doing DevSecOps with OWASP Projects (2-day training course)
+ URL: https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877
+ SectionId: sku_IWAHBB
+ Description: >-
+      You’re tasked with ‘doing AppSec’ for your company and you’ve got more apps and issues than you know how to deal with.  This training course will help you make sense of the chaos and all with open source projects from OWASP at DevSecOps speeds.  This two-day hands-on course consists of a series of lectures and corresponding labs which demonstrate practical use of OWASP projects based on past use in real AppSec teams.  Knowing that AppSec team size is usually the most critical constraint, the training will cover how to automate the repetitive things allowing you to spend time on things that require the human brain.  Be prepared to return to your company with a whole new arsenal of tools and techniques to make your AppSec efforts more successful by adding automation and OWASP projects running at the speed of DevSecOps.  With over 20+ years of experience, the trainer provides pragmatic and well-tested advice on being successful rather than theoretical ‘best practices’.<br>   
+- Type:
+  Trainer:
+    - Name:
+      Email:
+      Image:
+      Twitter:
+      Biography:
+      TrainerID:
+ Title:
+ URL:
+ SectionId:
+ Description:
