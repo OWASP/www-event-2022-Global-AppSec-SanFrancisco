@@ -53,3 +53,44 @@
       In this two-day training class, participants will be prepared to present the OWASP SAMM Project's one-day training class, "Secure Your SDLC using OWASP SAMM-ASAP!" The class will provide an in-depth review of each of the 10 modules in the SAMM training, with an emphasis on recommended techniques for delivering the content and in-class exercises.
 
       PLEASE NOTE: This class is not an introductory "How to BECOME a trainer" session - it is assumed participants already have experience as trainers, and are wishing to gain familiarity with the SAMM training class's content
+- Type: Training
+  Trainer:
+    - Name: Konstantinos Papapanagiotou
+      Email: kpapapan@styxcyber.com
+      Image: /assets/images/trainers/Konstantinos.jpeg
+      Twitter: kpapapan
+      Biography: Dr Kostas (Konstantinos) Papapanagiotou is a cyber security consultant that helps organizations around the world improve their security posture. He has more than 20 years of experience in the field of cyber security both as a corporate consultant and as a researcher. Over those years he has led numerous projects ranging from penetration tests to the implementation of complex corporate security, compliance and data loss prevention solutions. He is passionate about teaching and has delivered courses to hundreds of students, security professionals and developers.  He has been involved in OWASP since 2004, leading the OWASP Greek Chapter and several educational initiatives. He is an Adjunct Lecturer at the Hellenic-American University in the field of Cyber Security. He holds a PhD and BSc in Cyber Security from the University of Athens and an MSc in Information Security with distinction from Royal Holloway.
+      TrainerID: trainer004
+  Title: Securing your applications in AWS (2-day training course)
+  URL: https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877
+  SectionId: sku_IWAHBB
+  Description: >-
+      This training provides a thorough introduction to cloud security, covering both AWS and Azure. During the first day, we will go through all you need to know in order to develop and deploy secure applications in AWS. We will present how you can build a secure cloud infrastructure in AWS. You will learn how to use AWS Identity and Access Management in order to manage your users and control access to your resources and data. We will demonstrate how to use AWS-specific tools and features to ensure your application's production data is adequately protected and monitored. By the end of the first day, you should understand how to set up a basic hardened AWS infrastructure capable of deploying a production web application.  During the second day, we will focus on how to build and deploy secure software on the Microsoft Azure cloud platform. You will learn common Azure terminology and the basic components of a secure application architecture in Azure. We will explain how identity and access management work in Azure and how you can leverage Microsoft Identity Platform to manage your users. You will understand how to use Azure-specific features to ensure your application's production data is adequately protected and monitored. By the end of the course, you should understand how to set up a secure infrastructure using Azure, capable of deploying cloud-native web applications and services. 
+- Type:
+  Trainer:
+    - Name: Abraham Aranguren
+      Email: anirudh@7asecurity.com
+      Image: /assets/images/trainers/anirudh.jpeg
+      Twitter: a0xnirudh
+      Biography: Anirudh Anand is a security researcher with a primary focus on Web and Mobile Application Security. He is currently working as a Principal Security Engineer at CRED and also Security Trainer at 7asecurity. He has been submitting bugs and contributing to security tools for over 9 years. In his free time, he participates in CTF competitions along with Team bi0s (the #1 security team in India according to CTFtime). His bounties involve vulnerabilities in Google, Microsoft, LinkedIn, Zendesk, Sendgrid, Gitlab, Gratipay, and Flipboard. Anirudh is an open-source enthusiast and has contributed to several OWASP projects with notable contributions being in OWTF and Hackademic Challenges Project. He has presented/trained in a multitude of conferences including c0c0n 2019, BlackHat Arsenal 2019, BlackHat Europe Arsenal 2018, HITB Dubai 2018, Offzone Moscow 2018, Ground Zero Summit Delhi 2015, and Xorconf 2015
+      TrainerID: trainer005
+  Title: Hacking Modern Web apps: Master the Future of Attack Vectors (2-day training course)   
+  URL: https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877
+  SectionId: sku_IWAHBB
+  Description: >-
+        This course is the culmination of years of experience gained via practical penetration
+testing of Modern Web applications as well as countless hours spent doing research. We
+have structured this course around the OWASP Security Testing Guide, it covers the
+OWASP Top Ten and specific attack vectors against Modern Web apps. This course
+provides participants with actionable skills that can be applied immediately from day
+1.
+
+Please note our courses are 100% hands-on, we do not lecture students with boring
+bullet points and theories, instead we give you practical challenges and help you solve
+them, teaching you how to troubleshoot common issues and get the most out of this
+training. Training then continues after the course through our frequently updated
+training portal, for which you keep lifetime access, as well as unlimited email support.
+
+Get a FREE taste for this training, including access to video recording, slides and
+vulnerable apps to play with: 1 hour workshop:
+https://7asecurity.com/free-workshop-web-apps
