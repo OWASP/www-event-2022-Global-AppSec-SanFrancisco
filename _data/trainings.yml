@@ -117,13 +117,64 @@ If you are involved in using SAST, DAST or SCA tools in your organization, these
 ●	Building similar processes for penetration testing activities.
 ●	Comparison of the different tool types covered.
 
-
 To bring the course to life and let you apply what you learn, you will work in teams on table-top exercises where you design processes to cover specific scenarios, explain and justify your decisions to simulated stakeholders and practice prioritizing your remediation efforts.
  
 For these exercises, you will work based on specially designed process templates (which we will provide) which you can use afterwards to apply these improvements within your own organization.
  
 Be ready to work in a group, take part in discussions and present your findings and leave the course with clear strategies and ideas on how to get less stress and more value from these tools.
-  
+- Type: Training
+  Trainer: 
+    - Name: Abraham Aranguren
+      Email: anirudh@7asecurity.com
+      Image: /assets/images/trainers/anirudh.jpeg
+      Twitter: a0xnirudh
+      Biography: Anirudh Anand is a security researcher with a primary focus on Web and Mobile Application Security. He is currently working as a Principal Security Engineer at CRED and also Security Trainer at 7asecurity. He has been submitting bugs and contributing to security tools for over 9 years. In his free time, he participates in CTF competitions along with Team bi0s (the #1 security team in India according to CTFtime). His bounties involve vulnerabilities in Google, Microsoft, LinkedIn, Zendesk, Sendgrid, Gitlab, Gratipay, and Flipboard. Anirudh is an open-source enthusiast and has contributed to several OWASP projects with notable contributions being in OWTF and Hackademic Challenges Project. He has presented/trained in a multitude of conferences including c0c0n 2019, BlackHat Arsenal 2019, BlackHat Europe Arsenal 2018, HITB Dubai 2018, Offzone Moscow 2018, Ground Zero Summit Delhi 2015, and Xorconf 2015
+      TrainerId: trainer007
+   Title: Hacking Modern Web & Desktop Apps (3-day training course)
+   URL: https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877
+   SectionId: sku_IWAHBB
+   Description: >- 
+        This course is a 100% hands-on deep dive into the OWASP Security Testing Guide and relevant items of the OWASP Application Security Verification Standard (ASVS), so this course covers and goes beyond the OWASP Top Ten.
+
+Long are the days since web servers were run by perl scripts and desktop apps written in Delphi. What is common between Walmart, eBay, PayPal, Microsoft, LinkedIn, Google and Netflix? They all use Node.js: JavaScript on the server. What is common between Microsoft Teams, Skype, Bitwarden, Slack and Discord? All of them are written in Electron: JavaScript on the client.
+
+Modern Web and Desktop apps share traditional attack vectors and also introduce new opportunities to threat actors. This course will teach you how to review modern web and desktop apps, showcasing Node.js and Electron but using techniques that will also work against any other web or desktop app platform. Ideal for Penetration Testers, Web and Desktop app Developers as well as everybody interested in JavaScript/Node.js/Electron app security.
+
+All action, no fluff, improve your security analysis workflow and immediately apply these gained skills in your workplace, packed with exercises, extra mile challenges and CTF, self-paced and suitable for all skill levels, with continued education via unlimited email support and lifetime access to training portal with step-by-step video recordings and interesting apps to practice, including all future updates for free.
+- Type: Training
+  Trainer:
+    - Name: Fabio Cerullo
+      Email: fcerullo@cycubix.com
+      Image: /assets/images/trainers/Fabio.jpeg
+      Twitter: fcerullo
+      Biography: Fabio delivered this training to thousands of developers and security professionals. He also regularly delivers training to technical audiences on various topics such as application security, cloud security, and information security. Here is a reference from one attendee of his courses: "Fabio is an excellent instructor. I was lucky enough to attend one of the courses where he was the instructor. He was able to present the subject matter in an interesting way and at an appropriate pace. He encouraged interaction and was able to answer questions with ease by leveraging his extensive experience in the industry." Fabio Cerullo is an official certified instructor for (ISC)², the global leader in information security education and certification. He is also an AWS authorized instructor covering architecting and security topics. Fabio has over 15 years of experience in the information security field gained across a diverse range of industries ranging from financial and government institutions to software houses and start-ups. He regularly trains professionals from different backgrounds in application security, cloud security, and information security. He is a regular speaker at events organized by OWASP, ISACA and (ISC)² among others; and provides commentary and written articles for specialized industry media (Computer Weekly, Infosecurity Magazine, SiliconRepublic.com, etc). He holds an MSc in Computer Engineering from UCA, the SSCP, CISSP, CSSLP & CCSP certifications from (ISC)² and the AWS Certified Solution Architect certification.
+      TrainerId: trainer008
+  Title: Web Application Security Essentials
+  URL:  https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877
+  SectionId: sku_IWAHBB
+  Description: >- 
+        This course provides the knowledge and resources required to evaluate the security of web applications. The participants, through the understanding of theory and a strong focus on practical exercises, will be able to identify critical vulnerabilities in web applications, understand how exploitation works and learn how to implement the necessary corrective measures.
+
+The course is aligned with the OWASP 10 2021, a world-renowned reference document which describes the most critical web application security flaws.
+
+The topics covered include:
+
+Introduction to Web Application Security
+Technologies used in Web Applications
+The Security Tester Toolkit
+Critical Areas in Web Applications
+Broken Access Control
+Cryptographic Failures
+Injection
+Insecure Design
+Security Misconfiguration
+Vulnerable and Outdated Components
+Identification and Authentication Failures
+Software and Data Integrity Failures
+Security Logging and Monitoring Failures
+Server Side Request Forgery (SSRF)
+
+Format: The course combines theory and hands-on practical exercises. The participants start by learning about web application vulnerabilities. They are then given access to a purpose-built web application environment that contains the bugs and coding errors they have learned about. This provides an ideal ‘real-life’ opportunity to exploit these vulnerabilities in a safe environment.
       
       
       
