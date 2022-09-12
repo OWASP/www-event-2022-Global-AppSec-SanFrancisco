@@ -11,12 +11,12 @@ permalink: /trainings/
 
 {% assign tpricing = site.data.pricing | where: 'title', 'Training Courses' %}
 Training prices are as follows {{ tpricing[0].price }}
-1-day course $850
-2-day course $1700
+1-day course $850,
+2-day course $1700,
 3-day course $2550
 
 <section class='training'>
-**Training subject to change based on trainer availabilityand meeting the number of students per trainer request.**
+**Training subject to change based on trainer availability and meeting the number of students per trainer request.**
 {% if site.data.trainings.size > 0 %}
 {% assign trainings = site.data.trainings | sort: 'Title' %}
 {% for trainer in trainings %}
