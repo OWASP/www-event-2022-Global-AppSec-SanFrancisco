@@ -73,9 +73,57 @@
       Image: /assets/images/trainers/anirudh.jpeg
       Twitter: a0xnirudh
       Biography: Anirudh Anand is a security researcher with a primary focus on Web and Mobile Application Security. He is currently working as a Principal Security Engineer at CRED and also Security Trainer at 7asecurity. He has been submitting bugs and contributing to security tools for over 9 years. In his free time, he participates in CTF competitions along with Team bi0s (the #1 security team in India according to CTFtime). His bounties involve vulnerabilities in Google, Microsoft, LinkedIn, Zendesk, Sendgrid, Gitlab, Gratipay, and Flipboard. Anirudh is an open-source enthusiast and has contributed to several OWASP projects with notable contributions being in OWTF and Hackademic Challenges Project. He has presented/trained in a multitude of conferences including c0c0n 2019, BlackHat Arsenal 2019, BlackHat Europe Arsenal 2018, HITB Dubai 2018, Offzone Moscow 2018, Ground Zero Summit Delhi 2015, and Xorconf 2015
-      TrainerID: trainer005
+      TrainerId: trainer005
   Title: Hacking Modern Web apps: Master the Future of Attack Vectors (2-day training course)   
   URL: https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877
   SectionId: sku_IWAHBB
   Description: >-
-      This course is the culmination of years of experience gained via practical penetration testing of Modern Web applications as well as countless hours spent doing research. We have structured this course around the OWASP Security Testing Guide, it covers the OWASP Top Ten and specific attack vectors against Modern Web apps. This course provides participants with actionable skills that can be applied immediately from day 1. Please note our courses are 100% hands-on, we do not lecture students with boring bullet points and theories, instead we give you practical challenges and help you solve them, teaching you how to troubleshoot common issues and get the most out of this training. Training then continues after the course through our frequently updated training portal, for which you keep lifetime access, as well as unlimited email support. Get a FREE taste for this training, including access to video recording, slides and vulnerable apps to play with: 1 hour workshop: https://7asecurity.com/free-workshop-web-apps
+      Long are the days since web servers were run by perl scripts apps written in Delphi. What is common between Walmart, eBay, PayPal, Microsoft, LinkedIn, Google and Netflix? They all use Node.js: JavaScript on the server.
+
+Modern Web apps share traditional attack vectors and also introduce new opportunities to threat actors. This course will teach you how to review modern web apps, showcasing Node.js but using techniques that will also work against any other web app platform. Ideal for Penetration Testers, Web app Developers as well as everybody interested in JavaScript/Node.js and Modern app stack security.
+
+Get a FREE taste for this training, including access to video recording, slides and vulnerable apps to play with this 1 hour workshop https://7asecurity.com/free-workshop-web-apps
+
+This course is a 100% hands-on deep dive into the OWASP Security Testing Guide and relevant items of the OWASP Application Security Verification Standard (ASVS), so this course covers and goes beyond the OWASP Top Ten.
+
+All action, no fluff, improve your security analysis workflow and immediately apply these gained skills in your workplace, packed with exercises, extra mile challenges and CTF, self-paced and suitable for all skill levels, with continued education via unlimited email support, lifetime access, step-by-step video recordings and interesting apps to practice, including all future updates for free.
+
+Day 1: Focused specifically on Hacking Modern Web Apps: We start with understanding Modern Web Apps and then deep dive into static and dynamic analysis of the applications at hand. This day is packed with hands-on exercises and CTF-style challenges.
+
+Day 2: Dedicated to Advanced Modern Web App Attacks: We cover advanced attacks specifically targeting the Modern Web App and other platforms such as dumping memory, prototype pollution, deserialization attacks, OAuth, JWT flaws and more. The day is full of hands-on exercises and ends with CTF-style open challenges for additional practice.
+- Type:
+  Trainer:
+    - Name: Josh Grossman
+      Email: josh@bouncesecurity.com
+      Image: /assets/images/trainers/josh_grossman_headshot.jpeg
+      Twitter: JoshCGrossman
+      Biography: Josh has worked as a consultant in IT/Application Security and Risk for 15 years now as well as a Software Developer. In that time he has seen the good, the bad and the stuff which is sadly/luckily still covered by an NDA. He is currently Chief Technology Officer for Bounce Security where he spends his time helping organizations improve and get better value from their Application Security processes and providing specialist Application Security advice. In his spare time he co-leads the OWASP Application Security Verification Standard project and is on the OWASP Israel chapter board.
+      TrainerId: trainer006
+   Title: Building a High-Value AppSec Scanning Programme (2-day training course)
+   URL: https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877
+   SectionId: sku_IWAHBB
+   Description: >-
+       You bought the application security tools, you have the findings, but now what? Many organizations find themselves drowning in “possible vulnerabilities”, struggling to streamline their processes and not sure how to measure their progress.
+
+If you are involved in using SAST, DAST or SCA tools in your organization, these may be familiar feelings to you. In this course you will learn how to address these problems and more (in a vendor-neutral way), with topics including:
+●	What to expect from these tools?
+●	Customizing and optimizing these tools effectively
+●	Building tool processes which fit your business
+●	Automating workflows using CI/CD without slowing it down.
+●	Showing the value and improvements you are making
+●	Faster and easier triage through smart filtering
+●	How to focus on fixing what matters and cut down noise
+●	Techniques for various alternative forms of remediation
+●	Building similar processes for penetration testing activities.
+●	Comparison of the different tool types covered.
+
+
+To bring the course to life and let you apply what you learn, you will work in teams on table-top exercises where you design processes to cover specific scenarios, explain and justify your decisions to simulated stakeholders and practice prioritizing your remediation efforts.
+ 
+For these exercises, you will work based on specially designed process templates (which we will provide) which you can use afterwards to apply these improvements within your own organization.
+ 
+Be ready to work in a group, take part in discussions and present your findings and leave the course with clear strategies and ideas on how to get less stress and more value from these tools.
+  
+      
+      
+      
