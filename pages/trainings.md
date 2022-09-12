@@ -7,28 +7,28 @@ permalink: /trainings/
 ---
 # {{page.title}}
 <br>
-# {{page.title}}
-<br>
+#### Training subject to change based on trainer availability.
 
+{% assign tpricing = site.data.pricing | where: 'title', 'Training Courses' %}
+Training prices are {{ tpricing[0].price }}
+
+<section class='training'>
+**Training subject to change based on trainer availability.**
 {% if site.data.trainings.size > 0 %}
-
 {% assign trainings = site.data.trainings | sort: 'Title' %}
-{% for training in trainings %}
-{% for trainer in training.Trainers %}
-<section id="{{trainer.TrainerId}}">
+{% for trainer in trainings %}
+<section class="trainer-section" id="{{trainer.SectionId}}">
 <hr>
-<ul><li><div class="training-header"><div class="training-container no-margin"><div class="training-image" style="background-image:url('{{trainer.Image}}');"></div>
-<div class="trainer-header"><h2>{{ trainer.Name }}</h2><br>
-             <div class="info-container">
-             <a href="mailto:{{trainer.Email}}">{{ trainer.Email }}</a><br>
-             <a href="https://www.twitter.com/{{trainer.Twitter}}">@{{ trainer.Twitter }}</a><br>
-             <strong>Class:</strong><a href="/#{{training.SectionId}}">{{ training.Title }}</a>
-             </div>
-</div></div></div></li>
-<li class='bio-container'>{{trainer.Biography}}</li>
+<ul>
+<li><h3 class='training-header'>{{ trainer.Title }}<button class="cta-button grey" {%if trainer.Status == 'Postponed' or trainer.Status == 'Canceled' or trainer.Status == 'Booked Out' %}disabled='true' {%endif%} onclick="location.href='{{trainer.URL}}';" style="margin-left:1em;cursor: pointer;max-width=80px;">{%if trainer.Status == 'Postponed' or trainer.Status == 'Canceled' or trainer.Status == 'Booked Out'%}{{trainer.Status}}{%else%}Join Us{%endif%}</button></h3></li>
+<li class="training-desc">{{ trainer.Description }}</li>
+    <ul>
+        {% for tr in trainer.Trainers %}
+        <li><div class="training-container"><a href="/trainers/#{{tr.TrainerId}}" title="{{tr.Biography | strip_html}}"><div class="training-image" style="background-image:url('{{tr.Image}}');"></div>{{tr.Name}}</a></div></li>
+        {% endfor %}
+    </ul>
 </ul>
 </section>
 {% endfor %}
-{% endfor %}
-
 {% endif %}
+</section>
