@@ -164,117 +164,45 @@
       Twitter: sebadele
       Biography: >-
         Sebastien (Seba) Deleersnyder is co-founder and CTO of Toreon. He started the Belgian OWASP chapter and was an OWASP Foundation Board member. With a development background and years of security experience, he has trained countless developers to create more secure software. Leading OWASP projects such as OWASP SAMM, he has genuinely helped make the world a safer place. What’s he currently up to? Right now, he’s busy adapting application security models to the evolving field of DevOps and is also focused on getting the word out on Threat Modeling to a broader audience.
-     TrainerId: trainer009
- Title: Whiteboard hacking – aka hands-on Threat Modeling
- URL: https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877
- SectionId: sku_IWAHBB
- Description: >- 
+      TrainerId: trainer009
+  Title: Whiteboard hacking – aka hands-on Threat Modeling
+  URL: https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877
+  SectionId: sku_IWAHBB
+  Description: >- 
         The threat modeling training based on real life hands-on practical threat modeling, and delivered every year at OWASP since 2016, and Black Hat since 2017. Our latest Black Hat training score was 4.7/5 with great feedback!.
+        <br>
+        In this edition we enhanced the section on privacy by design, compliance, and added a section on threat modeling medical
+        devices. All participants get our Threat Modeling Playbook plus one year access to our online threat modeling learning platform. As part of this training, you will be asked to create your own threat model, on which you will get individual feedback. One month after the training we organize an online review session with all the participants.
+        <br>
+        As highly skilled professionals with years of experience under our belts, we’re intimately familiar with the gap between academic knowledge of threat modeling and real-world practice. To minimize that gap, we have developed practical use cases, based on real-life projects. Each use case includes a description of the environment, together with questions and templates to build a threat model.
+        <br>
+        Using this methodology for the hands-on workshops we provide our students with a challenging training experience and the templates to incorporate threat modeling best practices in their daily work. Students will be challenged in groups of 3 to 4 people to perform the different stages of threat modeling on the following:
+        <ul>
+        <li>Diagramming web and mobile applications, sharing the same REST
+        backend</li>
+        <li>Threat modeling an IoT gateway with a cloud-based update service</li>
+        <li>Get into the defender's head - modeling points of attack against a
+        nuclear facility</li>
+        <li>Threat mitigations of OAuth scenarios for an HR application</li>
+        <li>Privacy analysis of a new face recognition system in an airport</li>
+        </ul>
 
-In this edition we enhanced the section on privacy by design, compliance, and added a section on threat modeling medical
-devices. All participants get our Threat Modeling Playbook plus one year access to our online threat modeling learning platform. As part of this training, you will be asked to create your own threat model, on which you will get individual feedback. One month after the training we organize an online review session with all the participants.
-
-As highly skilled professionals with years of experience under our belts, we’re intimately familiar with the gap between academic knowledge of threat modeling and real-world practice. To minimize that gap, we have developed practical use cases, based on real-life projects. Each use case includes a description of the environment, together with questions and templates to build a threat model.
-
-Using this methodology for the hands-on workshops we provide our students with a challenging training experience and the templates to incorporate threat modeling best practices in their daily work. Students will be challenged in groups of 3 to 4 people to perform the different stages of threat modeling on the following:
-• Diagramming web and mobile applications, sharing the same REST
-backend
-• Threat modeling an IoT gateway with a cloud-based update service
-• Get into the defender's head - modeling points of attack against a
-nuclear facility
-• Threat mitigations of OAuth scenarios for an HR application
-• Privacy analysis of a new face recognition system in an airport
-
-After each hands-on workshop, the results are discussed, and
-students receive a documented solution. Based on our successful
-trainings in the last years and the great and positive feedback, we
-release this updated threat modeling training at Global AppSec San
-Francisco 2022.
-
-Course Outline
-Threat modeling introduction
-• Threat modeling in a secure development lifecycle
-• What is threat modeling?
-• Why perform threat modeling?
-• Threat modeling stages
-• Different threat modeling methodologies
-• Document a threat model
-
-Diagrams – what are you building?
-• Understanding context
-• Doomsday scenarios
-• Data flow diagrams
-• Trust boundaries
-• Sequence and state diagrams
-• Advanced diagrams
-• Hands-on: diagramming web and mobile applications, sharing the same REST backend
-
-Identifying threats – what can go wrong?
-• STRIDE introduction
-• Spoofing threats
-• Tampering threats
-• Repudiation threats
-• Information disclosure threats
-• Denial of service threats
-• Elevation of privilege threats
-• Attack trees
-• Attack libraries
-
-• Hands-on: STRIDE analysis of an Internet of Things (IoT) gateway
-and cloud update service
-Addressing each threat
-• Mitigation patterns
-• Authentication: mitigating spoofing
-• Integrity: mitigating tampering
-• Non-repudiation: mitigating repudiation
-• Confidentiality: mitigating information disclosure
-• Availability: mitigating denial of service
-• Authorization: mitigating elevation of privilege
-• Specialist mitigations
-• Hands-on: threat mitigations OAuth scenarios for web and mobile applications
-
-Threat modeling and compliance
-• How to marry threat modeling with compliance
-• GDPR and Privacy by design
-• Privacy threats
-• LINDUNN and Mitigating privacy threats
-• Threat modeling medical devices (ISO14971)
-• Threat modeling Industrial Control Systems (IEC 62443)
-• Threat Assessment and Remediation Analysis for automotive
-(TARA, SAE 21434)
-• Mapping threat modeling on compliance frameworks
-• Hands-on: privacy threat modeling of a face recognition system in an airport
-
-Penetration testing based on offensive threat models
-• Create pentest cases for threat mitigation features
-• Pentest planning to exploit security design flaws
-• Vulnerabilities as input to plan and scope security testing
-• Prioritization of pentesting based on risk rating
-• Hands-on: get into the defender's head – modeling points of attack
-of a nuclear facility.
-Advanced threat modeling
-• Typical steps and variations
-• Validation threat models
-• Effective threat model workshops
-• Communicating threat models
-• Agile and DevOps threat modeling
-• Improving your practice with the Threat Modeling Playbook
-• Scaling up threat modeling
-• Threat modeling and compliance: ISO14971 (medical devices), IEC
-62443 (industrial cybersecurity), SAE 21434 (automotive)
-• Threat models examples: medical devices, automotive, industrial control systems, IoT and Cloud
-
-Threat modeling resources
-• Open-Source tools
-• Commercial tools
-• General tools
-• Threat modeling tools compared
-
-Examination
-• Hands-on examination
-• Grading and certification
-
-Review session (online session after 1 month)
-• Hand-in of your own threat model
-• Individual feedback on your threat model
-• Review session
+        After each hands-on workshop, the results are discussed, and
+        students receive a documented solution. Based on our successful
+        trainings in the last years and the great and positive feedback, we
+        release this updated threat modeling training at Global AppSec San
+        Francisco 2022.
+        <br>
+        <strong>Course Outline</strong>
+        <ul>
+        <li>Threat modeling introduction</li>
+        <li>Diagrams – what are you building?</li>
+        <li>Identifying threats – what can go wrong?</li>
+        <li>Addressing each threat</li>
+        <li>Threat modeling and compliance</li>
+        <li>Penetration testing based on offensive threat models</li>
+        <li>Advanced threat modeling</li>
+        <li>Threat modeling resources</li>
+        <li>Examination</li>
+        <li>Review session (online session after 1 month)</li>
+        </ul>
