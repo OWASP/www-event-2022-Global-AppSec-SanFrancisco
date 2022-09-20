@@ -17,8 +17,8 @@ The following provides important information including preparing for the event, 
 + Monday, November 14 9am-5pm Training
 + Tuesday, November 15 9am-5pm Training
 + Wednesday, November 16 9am-5pm Training
-+ Thursday, November 17 8am-7pm Confernece, Expo Hall, Networking Reception
-+ Friday, November 18 8am-5:30pm Confernece, Expo Hall
++ Thursday, November 17 8am-7pm Conference, Expo Hall, Networking Reception
++ Friday, November 18 8am-5:30pm Conference, Expo Hall
 
 **Expectations**
 Global AppSec volunteers are expected to implement the following functions during the conference:
