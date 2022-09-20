@@ -142,6 +142,11 @@
   url: https://probely.com
   backgroundSize: 125px
   type: Silver
+- logo: /assets/images/sponsors/Rapidfort.svg
+  name: Rapidfort
+  url: https://www.rapidfort.com/
+  backgroundSize: 125px
+  type: Silver
 - logo: /assets/images/sponsors/CycodeLogo.png
   name: Cycode
   url: https://cycode.com/
