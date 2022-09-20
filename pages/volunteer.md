@@ -30,5 +30,6 @@ Global AppSec volunteers are expected to implement the following functions durin
 + BOOK HOTEL: OWASP has a room block for Global AppSec San Francisco 2022. To book a room at the conference hotel use the link above.
 + Conference Passes include: Coffee and lunch on Thursday, Novmeber 17th & Friday, November 18th, access to the conference talks & expo area, social events, and conference activities.
 
-**Event Location** Hyatt Regency San Francisco 5 Embarcadero Center San Francisco, California 94111 United States
+**Event Location** 
++ Hyatt Regency San Francisco 5 Embarcadero Center San Francisco, California 94111 United States
 
