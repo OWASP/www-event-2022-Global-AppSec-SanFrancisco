@@ -30,7 +30,7 @@ This confirmation packet provides important information including preparing for 
 + Full Conference Passes includes: Coffee, breakfast, and lunch on Thursday, November 17th & Friday, Novmeber 18th, access to the conference talks & expo area, social events, and conference activities.
 + Expo Only Passes include: Coffee, breakfast, and lunch on Thursday November 17th & Friday, November 18th, access to the expo area and Networking Reception on Thursday evening. It does NOT INCLUDE: access to the conference talks.
 
-Event Exhibitors:
+**Event Exhibitors**
 + Diamond Plus: 5 full confernce passes 2 expo only passes
 + Diamond:  5 full confernce passes 2 expo only passes
 + Gold: 2 full confernce passes 2 expo only passes
