@@ -50,7 +50,7 @@ This confirmation packet provides important information including preparing for 
 Details on the event schedule can be found here: Available later this week
 
 **Shipping Materials**
-For booth materials shipping & receiving to and after the show, you will work directly with Freeman.
+For booth materials, A/V, furniture and shipping & receiving to and after the show, you will work directly with [Freeman](/assets/files/ExhibitorFreemanDocumentFinal.pdf).
 
 **Lead Retrieval**
 1stSales is the official lead retrieval company for Global AppSec San Francisco 2022. Exhibitors need to secure their lead scanner app directly from 1stSales [here](https://1stsales.com/signup/APPSECSF-22/AAH48Q/78069300/0eea4Yag_Fx%5bHoJLKlFjC%5bJOTK_7FlxO%5bH$DfP%5bJJ7_UJml%5bH7KK%5bJ3x_3%5bHp3lO%5bJJ7_UJml%5bHxpJjxJlxTFp%5bJp3oE3CK).
