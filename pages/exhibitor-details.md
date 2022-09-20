@@ -31,20 +31,20 @@ This confirmation packet provides important information including preparing for 
 + Expo Only Passes include: Coffee, breakfast, and lunch on Thursday November 17th & Friday, November 18th, access to the expo area and Networking Reception on Thursday evening. It does NOT INCLUDE: access to the conference talks.
 
 Event Exhibitors:
-\- Diamond Plus: 5 full confernce passes 2 expo only passes
-\- Diamond:  5 full confernce passes 2 expo only passes
-\- Gold: 2 full confernce passes 2 expo only passes
-\- Silver: 2 expo only passes
-\- Additional full conference and expo only passes may be purchased [here](https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877)
++ Diamond Plus: 5 full confernce passes 2 expo only passes
++ Diamond:  5 full confernce passes 2 expo only passes
++ Gold: 2 full confernce passes 2 expo only passes
++ Silver: 2 expo only passes
++ Additional full conference and expo only passes may be purchased [here](https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877)
 
 **Preparing for the Conference**
-Event Location: Hyatt Regency San Francisco 5 Embarcadero Center San Francisco, California 94111 United States, phone: +1-415-788-1234
-Vendor Check-in and Set-up : Wednesday, November 16th 1pm-5pm
-Exhibitor Area Hours:
-Thursday Novmeber 17th 8am-7:30pm
-Friday, November 18th 8am-5:30pm
-Vendor Tear Down: Friday, Novmeber 18th 5:30pm-9pm. All vendor areas must be torn down by 9pm.
-Exhibitor Floor Plan: Selection of expo space is chosen according to sponsorship level and then by date payment was received in full. Floor plan diagram coming soon.
++ Event Location: Hyatt Regency San Francisco 5 Embarcadero Center San Francisco, California 94111 United States, phone: +1-415-788-1234
++ Vendor Check-in and Set-up : Wednesday, November 16th 1pm-5pm
++ Exhibitor Area Hours:
+++ Thursday Novmeber 17th 8am-7:30pm
+++ Friday, November 18th 8am-5:30pm
+++ Vendor Tear Down: Friday, Novmeber 18th 5:30pm-9pm. All vendor areas must be torn down by 9pm.
++ Exhibitor Floor Plan: Selection of expo space is chosen according to sponsorship level and then by date payment was received in full. Floor plan diagram coming this week.
 
 **Conference Schedule**
 Details on the event schedule can be found here: Available later this week
@@ -65,22 +65,22 @@ Exhibitors receive unlimited complimentary lead scanner app with their exhibitin
 Shared conference Wi-Fi will be available. Please ask for the network and password at the Registration desk. Additionally, the network and password will be included in your on-site packets that your team will find on their expo tables when they arrive.
 
 **Travel Information**
-\- Coming soon
++ Coming soon
 
 **Contact Information**
-\- Kelly Santalucia, OWASP Foundation kelly.santalucia@owasp.com 
-\- Lauren Thomas, OWASP Foundation lauren.thomas@owasp.com 
-\- Lead Retrieval Partner 1stSales Howard Kroymann hkroymann@1stsales.com Phone: +1-800-959-4313
-\- A/V Needs 
-\- Booth Electricity 
-\- Freeman
++ Kelly Santalucia, OWASP Foundation kelly.santalucia@owasp.com 
++ Lauren Thomas, OWASP Foundation lauren.thomas@owasp.com 
++ Lead Retrieval Partner 1stSales Howard Kroymann hkroymann@1stsales.com Phone: +1-800-959-4313
++ A/V Needs - coming this week
++ Booth Electricity - coming this week
++ Freeman
 
 **Details at a Glance**
-\- Exhibit Show Dates & Hours
-\- Thursday, November 17 8am-7:30pm & Friday, Novmeber 18 8am-5:30pm 
++ Exhibit Show Dates & Hours
++ Thursday, November 17 8am-7:30pm (Networking Reception held in the Expo Hall from 5:30pm-7:30pm) & Friday, Novmeber 18 8am-5:30pm 
 
 **Show Location**
-\- Hyatt Regency San Francisco 5 Embarcadero Center San Francisco, California 94111 United States Phone +1 415 788 1234
++ Hyatt Regency San Francisco 5 Embarcadero Center San Francisco, California 94111 United States Phone +1 415 788 1234
 
 **OTHER QUESTIONS?** Is there something we missed? Please Contact Us at events@owasp.com 
 
