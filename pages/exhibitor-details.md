@@ -41,9 +41,9 @@ Event Exhibitors:
 + Event Location: Hyatt Regency San Francisco 5 Embarcadero Center San Francisco, California 94111 United States, phone: +1-415-788-1234
 + Vendor Check-in and Set-up : Wednesday, November 16th 1pm-5pm
 + Exhibitor Area Hours:
-++ Thursday Novmeber 17th 8am-7:30pm
-++ Friday, November 18th 8am-5:30pm
-++ Vendor Tear Down: Friday, Novmeber 18th 5:30pm-9pm. All vendor areas must be torn down by 9pm.
++ Thursday Novmeber 17th 8am-7:30pm
++ Friday, November 18th 8am-5:30pm
++ Vendor Tear Down: Friday, Novmeber 18th 5:30pm-9pm. All vendor areas must be torn down by 9pm.
 + Exhibitor Floor Plan: Selection of expo space is chosen according to sponsorship level and then by date payment was received in full. Floor plan diagram coming this week.
 
 **Conference Schedule**
