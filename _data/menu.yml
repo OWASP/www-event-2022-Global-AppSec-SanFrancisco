@@ -24,7 +24,7 @@
   #url: /about/
   items:
     - title: Volunteer
-      url: https://owasp.wufoo.com/forms/z10nvp4f0cet8h4/
+      url: /volunteer/
     - title: OWASP Merchandise
       url: https://owasp.org/store
       #url  : /https://www.zazzle.com/store/owasp_foundation/
