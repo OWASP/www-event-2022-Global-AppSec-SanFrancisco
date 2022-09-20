@@ -172,3 +172,8 @@
   url: https://boostsecurity.io/
   backgroundSize: 125px
   type: Lunch Sponsor
+- logo: /assets/images/sponsors/Lyft_Logo_Pink.png
+  name: Lyft
+  url: https://www.lyft.com/
+  backgroundSize: 125px
+  type: Keynote Sponsor
