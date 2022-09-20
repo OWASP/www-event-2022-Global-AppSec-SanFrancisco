@@ -26,7 +26,7 @@ This confirmation packet provides important information including preparing for 
 
 **Preparing You and Your Team**
 + REGISTER: It is critical that both your expo staff and full conference pass holders register. Discount codes have been distributed to all paid exhibitors and sponsors.
-+ BOOK HOTEL: OWASP has a room block for Global AppSec San Francisco 2022 attendees and exhibitors. To book a room at the conference hotel please use [this link](https://www.hyatt.com/en-US/group-booking/SFORS/G-WAS1)
++ BOOK HOTEL: OWASP has a room block for Global AppSec San Francisco 2022 attendees and exhibitors. To book a room at the conference hotel please use [this link](https://www.hyatt.com/en-US/group-booking/SFORS/G-WAS1).
 + Full Conference Passes includes: Coffee, breakfast, and lunch on Thursday, November 17th & Friday, Novmeber 18th, access to the conference talks & expo area, social events, and conference activities.
 + Expo Only Passes include: Coffee, breakfast, and lunch on Thursday November 17th & Friday, November 18th, access to the expo area and Networking Reception on Thursday evening. It does NOT INCLUDE: access to the conference talks.
 
