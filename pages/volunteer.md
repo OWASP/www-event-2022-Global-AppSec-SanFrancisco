@@ -30,7 +30,7 @@ Global AppSec volunteers are expected to implement the following functions durin
 **Checklist Task/Deadline**
 + [Register](https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877) ASAP
 + [Book your hotel room](https://www.hyatt.com/en-US/group-booking/SFORS/G-WAS1) ASAP
-+ Volunteer Check-in 15 minutes before shift with Volunteer Coordinator at the Registartion booth
++ Volunteer Check-in 15 minutes before shift with Volunteer Coordinator at the Registration booth
 
 **Preparing for the Conference**
 + [Register](https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877): It is critical that you register. Discount codes will be distributed to confirmed volunteers.
