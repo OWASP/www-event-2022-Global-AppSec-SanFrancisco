@@ -43,7 +43,7 @@ This confirmation packet provides important information including preparing for 
 + Exhibitor Area Hours:
 + Thursday Novmeber 17th 8am-7:30pm
 + Friday, November 18th 8am-5:30pm
-+ Vendor Tear Down: Friday, Novmeber 18th 5:30pm-9pm. All vendor areas must be torn down by 9pm.
++ Vendor Tear Down: Friday, November 18th 5:30pm-9pm. All vendor areas must be torn down by 9pm.
 + Exhibitor Floor Plan: Selection of expo space is chosen according to sponsorship level and then by date payment was received in full. Floor plan diagram coming this week.
 
 **Conference Schedule**
