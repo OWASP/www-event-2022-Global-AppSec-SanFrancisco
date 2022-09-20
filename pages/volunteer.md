@@ -26,8 +26,8 @@ Global AppSec volunteers are expected to implement the following functions durin
 + Volunteer Check-in 15 minutes before shift with Volunteer Coordinator
 
 **Preparing for the Conference**
-+ REGISTER: It is critical that you register. Discount codes will be distributed to volunteers.
-+ BOOK HOTEL: OWASP has a room block for Global AppSec San Francisco 2022. To book a room at the conference hotel use the link above.
++ Register: It is critical that you register. Discount codes will be distributed to volunteers.
++ Book Hotel: OWASP has a room block for Global AppSec San Francisco 2022. To book a room at the conference hotel use the link above.
 + Conference Passes include: Coffee and lunch on Thursday, Novmeber 17th & Friday, November 18th, access to the conference talks & expo area, social events, and conference activities.
 
 **Event Location** 
