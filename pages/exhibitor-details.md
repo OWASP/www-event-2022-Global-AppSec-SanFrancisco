@@ -47,7 +47,7 @@ This confirmation packet provides important information including preparing for 
 + Exhibitor Floor Plan: Selection of expo space is chosen according to sponsorship level and then by date payment was received in full. Floor plan diagram coming this week.
 
 **Conference Schedule**
-Details on the event schedule can be found here: Available later this week
+Details on the event schedule can be found [here](https://owasp2022globalappsecsf.sched.com/)
 
 **Shipping Materials**
 For booth materials, A/V, furniture and shipping & receiving to and after the show, you will work directly with [Freeman](/assets/files/ExhibitorFreemanDocumentFinal.pdf).
@@ -74,7 +74,7 @@ Shared conference Wi-Fi will be available. Please ask for the network and passwo
 + Lauren Thomas, OWASP Foundation lauren.thomas@owasp.com 
 + Lead Retrieval Partner 1stSales Howard Kroymann hkroymann@1stsales.com Phone: +1-800-959-4313
 + Freight, A/V & Furniture Needs - Freeman
-+ Booth Electricity - coming this week
++ Booth Electricity - Freeman
 + [Freeman](https://www.freemanco.com/store/faqs#contactUS) Phone: +1-800-995-3579
 
 **Details at a Glance**
