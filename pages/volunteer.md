@@ -25,7 +25,7 @@ Global AppSec volunteers are expected to implement the following functions durin
 + Greet attendees upon arrival and throughout the conference.
 + Assist attendees with finding rooms/locations throughout the event.
 + Assist OWASP Foundation Staff members with setup, closing and continued operations throughout the duration of the conference.
-+ Ensure participants’ compliance with the OWASP's Global AppSec Code of Conduct: 
++ Ensure participants’ compliance with the OWASP's [Global AppSec Code of Conduct](https://sf.globalappsec.org/event/codeofconduct/) 
 
 **Checklist Task/Deadline**
 + Register ASAP
