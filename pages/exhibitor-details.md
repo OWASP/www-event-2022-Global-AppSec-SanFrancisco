@@ -82,6 +82,7 @@ Shared conference Wi-Fi will be available. Please ask for the network and passwo
 **Show Location**
 + Hyatt Regency San Francisco 5 Embarcadero Center San Francisco, California 94111 United States Phone +1 415 788 1234
 
-**OTHER QUESTIONS?** Is there something we missed? Please Contact Us at events@owasp.com 
+**OTHER QUESTIONS?** 
++ Is there something we missed? Please Contact Us at events@owasp.com 
 
 
