@@ -18,8 +18,8 @@ This confirmation packet provides important information including preparing for 
 **Checklist**
 + [Register your onsite team](https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877) ASAP Discount codes have been sent to your rep for paid exhibitor and sponsors. 
 + [Book your hotel room](https://www.hyatt.com/en-US/group-booking/SFORS/G-WAS1) ASAP
-+ [Order A/V equipment rental](/assets/images/ExhibitorFreemanDocumentFinal.pdf)
-+ [Contact Freeman](ExhibitorFreemanDocumentFinal.pdf) for expo shipping ASAP or before October 19th
++ [Order A/V equipment rental](/assets/files/ExhibitorFreemanDocumentFinal.pdf)
++ [Contact Freeman](/assets/files/ExhibitorFreemanDocumentFinal.pdf) for expo shipping ASAP or before October 19th
 + [Secure your lead scanner from 1stSales](https://1stsales.com/signup/APPSECSF-22/AAH48Q/78069300/0eea4Yag_Fx[HoJLKlFjC[JOTK_7FlxO[H$DfP[JJ7_UJml[H7KK[J3x_3[Hp3lO[JJ7_UJml[HxpJjxJlxTFp[Jp3oE3CK) ASAP
 + Exhibitor check-in & set-up Wednesday, November 16th 12pm-5pm
 + Exhibitor tear-down Friday, November 18th 5:30pm-9pm
