@@ -8,7 +8,7 @@ permalink: /volunteer/
 
 On behalf of the OWASP Foundation, the conference planning team and everyone attending the conference, we would like to thank you for volunteering at this year’s event. Without volunteers the conference would not run as smoothly and so we rely heavily on your goodwill and assistance.
 
-**If you are intersted in Volunteering, please submit your request [here](https://owasp.wufoo.com/forms/z10nvp4f0cet8h4/)**
+**If you are intersted in Volunteering, please submit your request [here](https://owasp.wufoo.com/forms/z10nvp4f0cet8h4/)**.
 
 **Volunteer Packet**
 The following provides important information including preparing for the event, registering for the conference, and booking your hotel as well as other important details and deadlines.
