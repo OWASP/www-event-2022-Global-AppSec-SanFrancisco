@@ -50,16 +50,16 @@ This confirmation packet provides important information including preparing for 
 Details on the event schedule can be found here: Available later this week
 
 **Shipping Materials**
-For booth materials shipping & receiving to and after the show,
+For booth materials shipping & receiving to and after the show, you will work directly with Freeman.
 
 **Lead Retrieval**
-1stSales is the official lead retrieval company for Global AppSec San Francisco 2022. Exhibitors need to secure their lead scanner app directly from 1stSales [here](https://1stsales.com/signup/APPSECSF-22/AAH48Q/78069300/0eea4Yag_Fx%5bHoJLKlFjC%5bJOTK_7FlxO%5bH$DfP%5bJJ7_UJml%5bH7KK%5bJ3x_3%5bHp3lO%5bJJ7_UJml%5bHxpJjxJlxTFp%5bJp3oE3CK)
+1stSales is the official lead retrieval company for Global AppSec San Francisco 2022. Exhibitors need to secure their lead scanner app directly from 1stSales [here](https://1stsales.com/signup/APPSECSF-22/AAH48Q/78069300/0eea4Yag_Fx%5bHoJLKlFjC%5bJOTK_7FlxO%5bH$DfP%5bJJ7_UJml%5bH7KK%5bJ3x_3%5bHp3lO%5bJJ7_UJml%5bHxpJjxJlxTFp%5bJp3oE3CK).
 
 Exhibitors receive unlimited complimentary lead scanner app with their exhibiting sponsorship. Although the app is complimentary, you still must secure your app directly from 1stSales. Hand-held scanners may be rented directly from 1stSales for an additional fee. 
 
-**A/V Rentals**
+**A/V Rentals** Details coming this week
 
-**Electricity**
+**Electricity** Details coming this week
 
 **Wi-Fi**
 Shared conference Wi-Fi will be available. Please ask for the network and password at the Registration desk. Additionally, the network and password will be included in your on-site packets that your team will find on their expo tables when they arrive.
