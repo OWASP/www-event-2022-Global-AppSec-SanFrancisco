@@ -13,6 +13,13 @@ On behalf of the OWASP Foundation, the conference planning team and everyone att
 **Volunteer Packet**
 The following provides important information including preparing for the event, registering for the conference, and booking your hotel as well as other important details and deadlines.
 
+**Event Details**
++ Monday, November 14 9am-5pm Training
++ Tuesday, November 15 9am-5pm Training
++ Wednesday, November 16 9am-5pm Training
++ Thursday, November 17 8am-7pm Confernece, Expo Hall, Networking Reception
++ Friday, November 18 8am-5:30 Confernece, Expo Hall
+
 **Expectations**
 Global AppSec volunteers are expected to implement the following functions during the conference:
 + Greet attendees upon arrival and throughout the conference.
