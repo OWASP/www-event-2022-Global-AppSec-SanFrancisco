@@ -5,6 +5,8 @@ layout: event_noheader
 permalink: /event/codeofconduct/
 
 ---
+**2022 Global AppSec San Francisco Event Code of Conduct**
+
 All attendees, speakers, sponsors, and volunteers at our conference are required to agree to the following code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
 
 **Need Help?**
