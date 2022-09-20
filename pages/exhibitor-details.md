@@ -57,11 +57,11 @@ For booth materials shipping & receiving to and after the show, you will work di
 
 Exhibitors receive unlimited complimentary lead scanner app with their exhibiting sponsorship. Although the app is complimentary, you still must secure your app directly from 1stSales. Hand-held scanners may be rented directly from 1stSales for an additional fee. 
 
-**A/V Rentals** 
-Freeman
+**A/V & Furniture Rentals** 
+[Freeman](/assets/files/ExhibitorFreemanDocumentFinal.pdf)
 
 **Electricity** 
-Freeman
+[Freeman](/assets/files/ExhibitorFreemanDocumentFinal.pdf)
 
 **Wi-Fi**
 Shared conference Wi-Fi will be available. Please ask for the network and password at the Registration desk. Additionally, the network and password will be included in your on-site packets that your team will find on their expo tables when they arrive.
