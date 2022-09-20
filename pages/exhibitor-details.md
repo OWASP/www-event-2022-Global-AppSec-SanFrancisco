@@ -18,8 +18,8 @@ This confirmation packet provides important information including preparing for 
 **Checklist**
 + [Register your onsite team](https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877) ASAP Discount codes have been sent to your rep for paid exhibitor and sponsors. 
 + [Book your hotel room](https://www.hyatt.com/en-US/group-booking/SFORS/G-WAS1) ASAP
-+ Order A/V equipment rental - details coming this week
-+ Contact Freeman for expo shipping ASAP or before October 19th
++ [Order A/V equipment rental](file:///Users/kellysantalucia/Downloads/2022%20Global%20AppSec%20San%20Fran/Exhibitor%20Freeman%20Document%20-%20Final.pdf) - Freeman
++ [Contact Freeman](file:///Users/kellysantalucia/Downloads/2022%20Global%20AppSec%20San%20Fran/Exhibitor%20Freeman%20Document%20-%20Final.pdf) for expo shipping ASAP or before October 19th
 + [Secure your lead scanner from 1stSales](https://1stsales.com/signup/APPSECSF-22/AAH48Q/78069300/0eea4Yag_Fx[HoJLKlFjC[JOTK_7FlxO[H$DfP[JJ7_UJml[H7KK[J3x_3[Hp3lO[JJ7_UJml[HxpJjxJlxTFp[Jp3oE3CK) ASAP
 + Exhibitor check-in & set-up Wednesday, November 16th 12pm-5pm
 + Exhibitor tear-down Friday, November 18th 5:30pm-9pm
@@ -57,9 +57,11 @@ For booth materials shipping & receiving to and after the show, you will work di
 
 Exhibitors receive unlimited complimentary lead scanner app with their exhibiting sponsorship. Although the app is complimentary, you still must secure your app directly from 1stSales. Hand-held scanners may be rented directly from 1stSales for an additional fee. 
 
-**A/V Rentals** Details coming this week
+**A/V Rentals** 
+Freeman
 
-**Electricity** Details coming this week
+**Electricity** 
+Freeman
 
 **Wi-Fi**
 Shared conference Wi-Fi will be available. Please ask for the network and password at the Registration desk. Additionally, the network and password will be included in your on-site packets that your team will find on their expo tables when they arrive.
@@ -71,9 +73,9 @@ Shared conference Wi-Fi will be available. Please ask for the network and passwo
 + Kelly Santalucia, OWASP Foundation kelly.santalucia@owasp.com 
 + Lauren Thomas, OWASP Foundation lauren.thomas@owasp.com 
 + Lead Retrieval Partner 1stSales Howard Kroymann hkroymann@1stsales.com Phone: +1-800-959-4313
-+ A/V Needs - coming this week
++ Freight, A/V & Furniture Needs - Freeman
 + Booth Electricity - coming this week
-+ Freeman
++ [Freeman](https://www.freemanco.com/store/faqs#contactUS) Phone: +1-800-995-3579
 
 **Details at a Glance**
 + Exhibit Show Dates & Hours
