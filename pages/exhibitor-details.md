@@ -21,7 +21,7 @@ This confirmation packet provides important information including preparing for 
 + [Order A/V equipment rental](/assets/files/ExhibitorFreemanDocumentFinal.pdf)
 + [Contact Freeman](/assets/files/ExhibitorFreemanDocumentFinal.pdf) for expo shipping ASAP or before October 19th
 + [Secure your lead scanner from 1stSales](https://1stsales.com/signup/APPSECSF-22/AAH48Q/78069300/0eea4Yag_Fx[HoJLKlFjC[JOTK_7FlxO[H$DfP[JJ7_UJml[H7KK[J3x_3[Hp3lO[JJ7_UJml[HxpJjxJlxTFp[Jp3oE3CK) ASAP
-+ Exhibitor check-in & set-up Wednesday, November 16th 12pm-5pm
++ Exhibitor check-in & set-up Wednesday, November 16th 1pm-5pm
 + Exhibitor tear-down Friday, November 18th 5:30pm-9pm
 
 **Preparing You and Your Team**
