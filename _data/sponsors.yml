@@ -162,3 +162,13 @@
   url: https://www.enso.security/
   backgroundSize: 125px
   type: Coffee Break Sponsor
+- logo: /assets/images/sponsors/Armorcode.svg
+  name: ArmorCode
+  url: https://www.armorcode.com/
+  backgroundSize: 125px
+  type: Lunch Sponsor
+- logo: /assets/images/sponsors/BoostSecurity.png
+  name: Boost Security
+  url: https://boostsecurity.io/
+  backgroundSize: 125px
+  type: Lunch Sponsor
