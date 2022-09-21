@@ -12,8 +12,8 @@
       #url : /schedule/
    #- title: Training
    #  url: https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877
-    - title: Call for Papers - CLOSED
-      url: https://owasp.submittable.com/submit/228824/2022-global-appsec-san-francisco-cfp
+    #- title: Call for Papers - CLOSED
+      #url: https://owasp.submittable.com/submit/228824/2022-global-appsec-san-francisco-cfp
 - title: EXHIBIT
   items:
     - title: Exhibitor Prospect
