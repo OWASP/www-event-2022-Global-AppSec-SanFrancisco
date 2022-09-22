@@ -59,22 +59,23 @@ We'll discuss approaches to conducting assessments; establishing and managing an
 
 While it would be helpful for training attendees to have prior experience with SAMM, it's not required.
 
-Topic Outline:
-* Motivation and Background of the SAMM Project
-* SAMM Assessment Methodology
-* Assessing Governance Practices
-* Assessing Design Practices
-* Assessing Implementation Practices
-* Assessing Verification Practices
-* Assessing Operations Practices
-* Setting Improvement Targets and Milestones
-* Building an Improvement Roadmap 
-* SAMM Tools
-* Building an Internal SAMM Assessment Program
-* Training SAMM Assessors
-* SAMM Benchmarking Project
-* SAMM Best Practices
-* Related OWASP Projects and Resources
+      Topic Outline:
+      <ul>
+      <li>Motivation and Background of the SAMM Project<li>
+      <li>SAMM Assessment Methodology<li>
+      <li>Assessing Governance Practices<li>
+      <li>Assessing Design Practices<li>
+      <li>Assessing Implementation Practices<li>
+      <li>Assessing Verification Practices<li>
+      <li>Assessing Operations Practices<li>
+      <li>Setting Improvement Targets and Milestones<li>
+      <li>Building an Improvement Roadmap<li>
+      <li>SAMM Tools<li>
+      <li>Building an Internal SAMM Assessment Program<li>
+      <li>Training SAMM Assessors<li>
+      <li>SAMM Benchmarking Project<li>
+      <li>SAMM Best Practices<li>
+      <li>Related OWASP Projects and Resources<li>
 - Type: Training
   Trainers:
     - Name: Konstantinos Papapanagiotou
