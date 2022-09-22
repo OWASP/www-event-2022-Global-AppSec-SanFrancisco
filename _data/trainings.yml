@@ -51,9 +51,30 @@
   URL: https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877
   SectionId: sku_IWAHBB
   Description: >-
-      In this two-day training class, participants will be prepared to present the OWASP SAMM Project's one-day training class, "Secure Your SDLC using OWASP SAMM-ASAP!" The class will provide an in-depth review of each of the 10 modules in the SAMM training, with an emphasis on recommended techniques for delivering the content and in-class exercises.
+      OWASP SAMM Master Class
 
-      PLEASE NOTE: This class is not an introductory "How to BECOME a trainer" session - it is assumed participants already have experience as trainers, and are wishing to gain familiarity with the SAMM training class's content
+This two-day class presents an advanced, in-depth review of the SAMM model and its use within an organization. Many class topic covered will match those in our one-day SAMM Overview class - all topics will be covered in greater detail, with several advanced topics added.
+
+We'll discuss approaches to conducting assessments; establishing and managing an enterprise-wide assessment program; and training others to conduct assessments.
+
+While it would be helpful for training attendees to have prior experience with SAMM, it's not required.
+
+Topic Outline:
+* Motivation and Background of the SAMM Project
+* SAMM Assessment Methodology
+* Assessing Governance Practices
+* Assessing Design Practices
+* Assessing Implementation Practices
+* Assessing Verification Practices
+* Assessing Operations Practices
+* Setting Improvement Targets and Milestones
+* Building an Improvement Roadmap 
+* SAMM Tools
+* Building an Internal SAMM Assessment Program
+* Training SAMM Assessors
+* SAMM Benchmarking Project
+* SAMM Best Practices
+* Related OWASP Projects and Resources
 - Type: Training
   Trainers:
     - Name: Konstantinos Papapanagiotou
