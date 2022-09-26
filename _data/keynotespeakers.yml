@@ -14,8 +14,8 @@
       transmission, acceleration, and even the steering of the target vehicle. The demonstration of these vulnerabilities led to the recall of 
       1.4 million vehicles. Dr. Miller has been featured on the Today Show, ABC World News Tonight, CNN, NPR, CNBC, New York Times, USA Today, 
       Forbes, etc.
-  #subject: 
-  #abstract:
+  subject: A lifetime of vulnerabilities
+  abstract: Throughout his career, Charlie has discovered a number of significant (and not so significant) vulnerabilities in products.  In this talk, he will discuss some of his favorite vulnerabilities along with the stories of their discovery and disclosure.  While these anecdotes will be lighthearted, real lessons can be learned from them on how to secure your products as well as how to deal with the inevitable discovery of vulnerabilities in them.
 - image: AnnaWestelius_Keynote.png
   name: Anna Westelius
   #title: 
