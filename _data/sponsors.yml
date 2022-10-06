@@ -197,3 +197,8 @@
   url: https://sf.globalappsec.org/assets/images/Global_AppSec_SF_Exhibitor_Sponsorship.pdf
   backgroundSize: 125px
   type: Coffee Break Sponsor
+- logo: /assets/images/sponsors/Cider-Logo-Dark.svg
+  name: Cider Security
+  url: https://www.cidersecurity.io/about/
+  backgroundSize: 125px
+  type: Diamond
