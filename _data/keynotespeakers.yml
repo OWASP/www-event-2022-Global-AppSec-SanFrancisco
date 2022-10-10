@@ -22,7 +22,8 @@
   bio: >- 
        Anna Westelius is a passionate security leader and former security researcher, analyst, and hacking enthusiast. Anna is currently the Director of          Security Engineering at Netflix, leading teams who ensure we address top security risks while maintaining overall business agility, velocity, and          scale.
   subject: Construction work ahead: a lesson in paving paths for Security
-  abstract: In this talk, we’ll discuss scaling security programs through technology and secure-by-defaults in an evolving engineering ecosystem. We’ll share lessons learned from “paving roads” for security over the years, how to find opportunities, create shared accountability with engineering partners, and ultimately reduce security risks.      
+  abstract: 
+       >- In this talk, we’ll discuss scaling security programs through technology and secure-by-defaults in an evolving engineering ecosystem. We’ll share lessons learned from “paving roads” for security over the years, how to find opportunities, create shared accountability with engineering partners, and ultimately reduce security risks.      
   #style: background-repeat:no-repeat;
 - image: JimManico.jpeg
   name: Jim Manico
