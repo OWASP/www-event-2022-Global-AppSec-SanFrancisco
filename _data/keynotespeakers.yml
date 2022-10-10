@@ -14,7 +14,7 @@
       transmission, acceleration, and even the steering of the target vehicle. The demonstration of these vulnerabilities led to the recall of 
       1.4 million vehicles. Dr. Miller has been featured on the Today Show, ABC World News Tonight, CNN, NPR, CNBC, New York Times, USA Today, 
       Forbes, etc.
-  subject: A lifetime of vulnerabilities
+  subject: A Lifetime of Vulnerabilities
   abstract: Throughout his career, Charlie has discovered a number of significant (and not so significant) vulnerabilities in products.  In this talk, he will discuss some of his favorite vulnerabilities along with the stories of their discovery and disclosure.  While these anecdotes will be lighthearted, real lessons can be learned from them on how to secure your products as well as how to deal with the inevitable discovery of vulnerabilities in them.
 - image: AnnaWestelius_Keynote.png
   name: Anna Westelius
@@ -22,7 +22,7 @@
   bio: >- 
        Anna Westelius is a passionate security leader and former security researcher, analyst, and hacking enthusiast. Anna is currently the Director of          Security Engineering at Netflix, leading teams who ensure we address top security risks while maintaining overall business agility, velocity, and          scale.
   subject: >-
-       Construction work ahead: a lesson in paving paths for Security
+       Construction Work Ahead: A Lesson in Paving Paths for Security
   abstract: >-
        In this talk, we’ll discuss scaling security programs through technology and secure-by-defaults in an evolving engineering ecosystem. We’ll share lessons learned from “paving roads” for security over the years, how to find opportunities, create shared accountability with engineering partners, and ultimately reduce security risks.      
   #style: background-repeat:no-repeat;
@@ -38,5 +38,5 @@
   #title:
   bio: >-
        Swathi Joshi currently leads the SaaS Information Security team at Oracle. Before that she led Netflix's Detection and Response team which focuses on managing the inevitable security incidents that arise and building detection pipelines. Prior to Netflix, she was at Mandiant, helping companies defend against Advanced Persistent Threats (APT). Swathi was born in Mangalore, India. She received her Master's degree in Information Security and Assurance from George Mason University and sits on the board of https://sdie.org and https://forte-group.org/. 
-  subject: Building a security program No buzzwords allowed
+  subject: Building a Security Program No Buzzwords Allowed
   abstract: In a world full of magic quadrants, acronyms, slicing and dicing of security product market share let’s go back to basics and discuss building and maturing a security program with a focus on foundational building blocks. Let’s put the buzzwords, tools overload aside and talk about the mammoth task of securing applications, building a team,failing and hopefully maturing along the way. It’s gonna be a ride!
