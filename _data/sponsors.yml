@@ -208,3 +208,8 @@
   url: https://sysdig.com/
   backgroundSize: 125px
   type: Coffee Break Sponsor
+- logo: /assets/images/sponsors/Bright_Logo.png
+  name: Bright Security
+  url: https://brightsec.com/
+  backgroundSize: 125px
+  type: Silver
