@@ -203,3 +203,8 @@
   url: https://www.cidersecurity.io/about/
   backgroundSize: 125px
   type: Diamond
+- logo: /assets/images/sponsors/sysdig-logo.svg
+  name: Sisdig
+  url: https://sysdig.com/
+  backgroundSize: 125px
+  type: Coffee Break Sponsor
