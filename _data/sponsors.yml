@@ -213,3 +213,8 @@
   url: https://brightsec.com/
   backgroundSize: 125px
   type: Silver
+- logo: /assets/images/sponsors/Arnica_Logo.png
+  name: Arnica
+  url: https://www.arnica.io/
+  backgroundSize: 125px
+  type: Diamond
