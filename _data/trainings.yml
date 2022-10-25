@@ -126,10 +126,10 @@
 - Type: Training
   Trainers:
     - Name: Abraham Aranguren
-      Email: anirudh@7asecurity.com
+      Email: admin@7asecurity.com
       Image: /assets/images/trainers/AbrahamAranguren.jpeg
-      Twitter: a0xnirudh
-      Biography: Anirudh Anand is a security researcher with a primary focus on Web and Mobile Application Security. He is currently working as a Principal Security Engineer at CRED and also Security Trainer at 7asecurity. He has been submitting bugs and contributing to security tools for over 9 years. In his free time, he participates in CTF competitions along with Team bi0s (the #1 security team in India according to CTFtime). His bounties involve vulnerabilities in Google, Microsoft, LinkedIn, Zendesk, Sendgrid, Gitlab, Gratipay, and Flipboard. Anirudh is an open-source enthusiast and has contributed to several OWASP projects with notable contributions being in OWTF and Hackademic Challenges Project. He has presented/trained in a multitude of conferences including c0c0n 2019, BlackHat Arsenal 2019, BlackHat Europe Arsenal 2018, HITB Dubai 2018, Offzone Moscow 2018, Ground Zero Summit Delhi 2015, and Xorconf 2015
+      Twitter: 7asecurity
+      Biography: After 15 years in itsec and 22 in IT Abraham is now the CEO of 7ASecurity (7asecurity.com), a company specializing in penetration testing of web/mobile apps, infrastructure, code reviews and training. Co-Author of the Mobile, Web and Desktop (Electron) app 7ASecurity courses. Security Trainer at Blackhat USA, HITB, OWASP Global AppSec and many other events. Former senior penetration tester / team lead at Cure53 and Version 1. Creator of “Practical Web Defense”, a hands-on eLearnSecurity attack / defense course, OWASP OWTF project leader, an OWASP flagship project (owtf.org), Major degree and Diploma in Computer Science, some certs: CISSP, OSCP, GWEB, OSWP, CPTS, CEH, MCSE:Security, MCSA:Security, Security+. As a shell scripting fan trained by unix dinosaurs, Abraham wears a proud manly beard. He writes on Twitter as @7asecurity @7a_ @owtfp or https://7asecurity.com/blog. Multiple presentations, pentest reports and recordings can be found at https://7asecurity.com/publications
       TrainerId: trainer007
   Title: Hacking Modern Web & Desktop Apps (3-day training course 9am-5pm November 14-16)
   URL: https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877
