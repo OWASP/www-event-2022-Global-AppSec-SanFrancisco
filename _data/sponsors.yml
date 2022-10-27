@@ -203,3 +203,8 @@
   url: https://www.arnica.io/
   backgroundSize: 125px
   type: Diamond
+- logo: /assets/images/sponsors/rec.dev.svg
+  name: r2c.dev
+  url: https://r2c.dev/
+  backgroundSize: 125px
+  type: Keynote
