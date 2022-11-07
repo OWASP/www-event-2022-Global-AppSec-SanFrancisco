@@ -193,3 +193,8 @@
   url: https://semgrep.dev/
   backgroundSize: 125px
   type: Keynote Sponsor
+- logo: /assets/images/sponsors/oxeye_rgb_logo__light.png
+  name: Oxeye
+  url: https://www.oxeye.io/
+  backgroundSize: 125px
+  type: Diamond
