@@ -3,7 +3,9 @@
   #title: 
   bio: >- 
        Simon Bennetts released OWASP ZAP in 2010 and since then has shepherded it to become the world's most popular web vulnerability scanner.
-He is very active in OWASP and sits on the OWASP Project Committee. He has talked about and demonstrated ZAP at conferences all over the world, including Blackhat, JavaOne, FOSDEM and OWASP AppSec EU, USA & AsiaPac. Prior to making the move into security he was a developer for 25 years and strongly believes that you cannot build secure web applications without knowing how to attack them.
+       He is very active in OWASP and sits on the OWASP Project Committee. He has talked about and demonstrated ZAP at conferences all over the world, 
+       including Blackhat, JavaOne, FOSDEM and OWASP AppSec EU, USA & AsiaPac. Prior to making the move into security he was a developer for 25 years 
+       and strongly believes that you cannot build secure web applications without knowing how to attack them.
   subject: OWASP - Whats the Point?
   abstract: Is OWASP Still Relevant?
 Do people want to go to conferences and chapter meetings in the aftermath of COVID?
