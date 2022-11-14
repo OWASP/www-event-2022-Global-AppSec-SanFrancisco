@@ -1,21 +1,15 @@
-- image: CharlieMiller.jpeg
-  name: Charlie Miller
+- image: simon.png
+  name: Simon Bennetts
   #title: 
-  bio: >-
-      Dr. Charlie Miller is "one of the most technically proficient hackers on Earth", according to Foreign Policy. After receiving his 
-      PhD in Mathematics from the University of Notre Dame, Dr. Miller was a computer hacker for the National Security Agency for five years. 
-      Since that time he has worked for the Twitter application security team, as well as worked on the autonomous vehicle security teams for
-      Uber, Didi Chuxing, and currently Cruise Automation. He has won the “Super Bowl” of computer hacking, the annual Pwn2Own competition 
-      four times. Dr. Miller has found countless vulnerabilities in a number of Apple products including their laptops and phones. Perhaps the 
-      most notorious of these issues was the ability to remotely compromise an iPhone by merely sending it a malicious text message. He is 
-      known as the first to remotely exploit the iPhone when it was released as well as the first Android phone when it was released (on the 
-      day it came out). Lately, Dr. Miller has spent considerable time in the field of automotive security. Dr. Miller demonstrated that a 
-      variety of Fiat Chrysler vehicles could be remotely hacked from anywhere in the country and he could control the radio, brakes, wipers, 
-      transmission, acceleration, and even the steering of the target vehicle. The demonstration of these vulnerabilities led to the recall of 
-      1.4 million vehicles. Dr. Miller has been featured on the Today Show, ABC World News Tonight, CNN, NPR, CNBC, New York Times, USA Today, 
-      Forbes, etc.
-  subject: A Lifetime of Vulnerabilities
-  abstract: Throughout his career, Charlie has discovered a number of significant (and not so significant) vulnerabilities in products.  In this talk, he will discuss some of his favorite vulnerabilities along with the stories of their discovery and disclosure.  While these anecdotes will be lighthearted, real lessons can be learned from them on how to secure your products as well as how to deal with the inevitable discovery of vulnerabilities in them.
+  bio: >- Simon Bennetts released OWASP ZAP in 2010 and since then has shepherded it to become the world's most popular web vulnerability scanner.
+He is very active in OWASP and sits on the OWASP Project Committee. He has talked about and demonstrated ZAP at conferences all over the world, including Blackhat, JavaOne, FOSDEM and OWASP AppSec EU, USA & AsiaPac. Prior to making the move into security he was a developer for 25 years and strongly believes that you cannot build secure web applications without knowing how to attack them.
+  subject: OWASP - Whats the Point?
+  abstract: Is OWASP Still Relevant?
+Do people want to go to conferences and chapter meetings in the aftermath of COVID?
+Do we need 260+ projects?
+Does anyone get past the titles of the Top 10?
+In this talk Simon will explain why he thinks OWASP is still very relevant and a much needed force for good.
+But this will be interactive and you will get a chance to have your say!
 - image: AnnaWestelius_Keynote.png
   name: Anna Westelius
   #title: 
