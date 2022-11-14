@@ -7,12 +7,13 @@
        including Blackhat, JavaOne, FOSDEM and OWASP AppSec EU, USA & AsiaPac. Prior to making the move into security he was a developer for 25 years 
        and strongly believes that you cannot build secure web applications without knowing how to attack them.
   subject: OWASP - Whats the Point?
-  abstract: Is OWASP Still Relevant?
-Do people want to go to conferences and chapter meetings in the aftermath of COVID?
-Do we need 260+ projects?
-Does anyone get past the titles of the Top 10?
-In this talk Simon will explain why he thinks OWASP is still very relevant and a much needed force for good.
-But this will be interactive and you will get a chance to have your say!
+  abstract: >-
+        Is OWASP Still Relevant?
+        Do people want to go to conferences and chapter meetings in the aftermath of COVID?
+        Do we need 260+ projects?
+        Does anyone get past the titles of the Top 10?
+        In this talk Simon will explain why he thinks OWASP is still very relevant and a much needed force for good.
+        But this will be interactive and you will get a chance to have your say!
 - image: AnnaWestelius_Keynote.png
   name: Anna Westelius
   #title: 
