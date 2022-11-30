@@ -8,8 +8,8 @@
       #url : /
     - title: Training
       url : /trainings/
-    #- title: Agenda
-      #url : /schedule/
+    - title: Event Images
+      url : /media/
    #- title: Training
    #  url: https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877
     #- title: Call for Papers - CLOSED
