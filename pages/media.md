@@ -12,7 +12,7 @@ permalink: /media/
 {% assign images = site.data.media | where: "type", "image" %}
 {% for img in images %}
 <a href="{{img.url}}" class="member-logo" target="_blank" style="margin:30px; max-width:250px; max-height:250px;">
-<img src="{{img.url}}" style="max-height: 250px; max-width:250px;"/>
+<img src="{{img.turl}}" style="max-height: 250px; max-width:250px;"/>
 </a>
 {% endfor %}
 </div>
